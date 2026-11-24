@@ -1,0 +1,121 @@
+{
+  "sources": {
+    "GSE25066_series_matrix.txt.gz": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/series/GSE25nnn/GSE25066/matrix/GSE25066_series_matrix.txt.gz",
+      "sha256": "beef319fba17f38e05ff0994513763dfbc7c9cfa9f6c4b2b7c31dcdd036060fb",
+      "bytes": 61627399
+    },
+    "GPL96.annot.gz": {
+      "url": "https://ftp.ncbi.nlm.nih.gov/geo/platforms/GPLnnn/GPL96/annot/GPL96.annot.gz",
+      "sha256": "88e0b22362bac779eb220b3b185c80faa6510a92b9358eaad159a561ab4351c4",
+      "bytes": 4522748
+    }
+  },
+  "script_sha256": "cffb849f35cec05eb98e5cc27632d978b8a86c349a72129a8b79ffa25482e14f",
+  "seed": 20260923,
+  "expert_seed": 20261023,
+  "python": "3.11.16",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.1",
+  "cohort": {
+    "samples_total": 508,
+    "labelled": 488,
+    "events_pcr": 99,
+    "unlabelled_excluded": 20,
+    "by_source": {
+      "ISPY": {
+        "size": 79,
+        "sum": 14
+      },
+      "LBJ/IN/GEI": {
+        "size": 57,
+        "sum": 11
+      },
+      "MDACC": {
+        "size": 298,
+        "sum": 55
+      },
+      "USO": {
+        "size": 54,
+        "sum": 19
+      }
+    },
+    "hr_counts": {
+      "1.0": 307,
+      "0.0": 177,
+      "nan": 4
+    },
+    "her2_counts": {
+      "0.0": 466,
+      "nan": 17,
+      "1.0": 5
+    },
+    "age_missing": 0
+  },
+  "clinical_mapping": "er=er_status_ihc (P/N; I resolved by er_status_ihc_esr1_for indeterminate); pr=pr_status_ihc (P/N; I/NA unknown); hr=1 if ER or PR positive, 0 if both negative, else NaN; her2=her2_status P->1 N->0 I/NA->NaN; NaN median-imputed by frozen I-SPY2 clinical expert; I-SPY2 codes hr/her2 as 0/1.",
+  "genes": {
+    "probes_total": 22283,
+    "probes_single_symbol": 19933,
+    "symbols": 12502,
+    "ispy2_genes": 19134,
+    "intersection_G": 12015
+  },
+  "overlap": {
+    "ispy2_id_overlap": 0,
+    "ispy_source_samples": 83,
+    "ispy_source_labelled": 79,
+    "non_ispy_sample_id_matching_ispy1_ids": 0,
+    "ispy_source_in_our_ispy1_cohort": 62,
+    "note": "GSE25066 includes 83 I-SPY1 (source=ISPY) samples, 62 of which are in the I-SPY1 external cohort (n=112) used elsewhere; no I-SPY2 patients. Training uses I-SPY2 only. PRIMARY = non-ISPY cohort (metrics.csv etc.); full cohort secondary (*_all.csv)."
+  },
+  "ispy2_train": {
+    "n": 976,
+    "events": 315
+  },
+  "fitted": {
+    "carf_coef": [
+      0.3393708430660191,
+      0.3892636057949908,
+      2.9397471941444657e-17,
+      0.27136555113899014,
+      0.0,
+      1.0032103458994936e-17
+    ],
+    "carf_budgets": [
+      0.7286344488610099,
+      0.27136555113899014
+    ],
+    "robust_offset_theta": [
+      -0.7278472021966357,
+      0.12308779358912074,
+      0.09540921328979143
+    ],
+    "offset_theta": {
+      "offset_lr": [
+        -0.6480692655327859,
+        0.34020461089890774,
+        0.3965111423495016
+      ],
+      "offset_lr_masked": [
+        -0.6964291159667431,
+        0.3418806387189674,
+        0.39622853587342877
+      ]
+    }
+  },
+  "settings": {
+    "carf_budget": 1.0,
+    "carf_robust_weight": 0.25,
+    "robust_offset_gamma": 0.25,
+    "moddrop": {
+      "hidden": [
+        32,
+        16
+      ],
+      "alpha": 0.01
+    },
+    "n_boot": 2000,
+    "stress_repeats": 30
+  }
+}

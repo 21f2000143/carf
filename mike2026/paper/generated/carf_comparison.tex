@@ -1,0 +1,18 @@
+\begin{tabular}{lrrrr}
+\toprule
+Model & CV AUC & Ext. AUC & Ext. AP & Brier\\
+\midrule
+Transcriptomic & 0.723 & 0.809 & 0.659 & 0.178\\
+Clinical anchor & 0.662 & 0.802 & 0.617 & 0.205\\
+MRI & 0.629 & 0.607 & 0.360 & 0.314\\
+Available-expert mean & 0.751 & 0.837 & 0.649 & 0.167\\
+Probability stacking & 0.747 & 0.851 & 0.667 & 0.151\\
+No-MRI stacking & 0.733 & 0.853 & 0.694 & 0.148\\
+Mask-augmented stacking & 0.746 & 0.859 & 0.672 & 0.148\\
+CARF (proposed) & 0.731 & 0.849 & 0.699 & 0.173\\
+CARF: no robust loss & 0.743 & 0.871 & 0.713 & 0.146\\
+CARF: constant basis & 0.733 & 0.850 & 0.692 & 0.172\\
+CARF: unbounded residual & 0.725 & 0.851 & 0.691 & 0.174\\
+CARF: no MRI & 0.718 & 0.842 & 0.668 & 0.171\\
+\bottomrule
+\end{tabular}

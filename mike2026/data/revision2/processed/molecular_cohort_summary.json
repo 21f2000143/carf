@@ -1,0 +1,20 @@
+{
+  "ISPY1": {
+    "clinical": 221,
+    "expression": 149,
+    "images_in_manifest": 172,
+    "matched_candidates": 116,
+    "retained_before_image_QC": 112,
+    "pcr_positive": 31,
+    "gene_features": 22288
+  },
+  "ISPY2": {
+    "clinical": 985,
+    "expression": 988,
+    "images_in_manifest": 982,
+    "matched_candidates": 978,
+    "retained_before_image_QC": 978,
+    "pcr_positive": 316,
+    "gene_features": 19134
+  }
+}

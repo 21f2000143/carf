@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>CARF — Bounded Anchored Fusion Interactive Visualizer</title>
+<style>
+:root{--bg:#f7f8fa;--card:#fff;--ink:#17202a;--muted:#65717d;--line:#d9dee5;--accent:#2563eb;--accent2:#0f766e;--warn:#b45309}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 system-ui,-apple-system,Segoe UI,Roboto,Arial}
+header{background:#111827;color:#fff;padding:28px 5vw} header h1{margin:0 0 5px;font-size:28px} header p{margin:0;color:#d1d5db}
+main{max-width:1450px;margin:22px auto;padding:0 20px}
+.grid{display:grid;grid-template-columns:360px 1fr;gap:18px}.card{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:18px;box-shadow:0 2px 8px #0000000a}
+h2{font-size:20px;margin:0 0 12px} h3{font-size:16px;margin:16px 0 8px}.small{font-size:13px;color:var(--muted)}
+.control{margin:11px 0}.control label{display:flex;justify-content:space-between;gap:8px;font-weight:600}.control input[type=range]{width:100%}
+.value{font-variant-numeric:tabular-nums;color:var(--accent);font-weight:700}
+input[type=number]{width:82px;padding:5px;border:1px solid var(--line);border-radius:6px}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.check{font-size:13px}.btn{border:1px solid var(--line);background:#fff;border-radius:8px;padding:7px 10px;cursor:pointer}.btn:hover{background:#f1f5f9}
+.metric{display:grid;grid-template-columns:repeat(3,1fr);gap:9px;margin:12px 0}.metric>div{background:#f3f6fa;border-radius:9px;padding:10px}.metric b{display:block;font-size:19px}.metric span{font-size:12px;color:var(--muted)}
+canvas{width:100%;height:260px;border:1px solid var(--line);border-radius:10px;background:#fff}.plotTitle{font-weight:700;margin:12px 0 6px}
+.formula{background:#f5f7fa;border-left:4px solid var(--accent);padding:10px 12px;border-radius:7px;font-family:ui-monospace,SFMono-Regular,Menlo,monospace;font-size:13px;overflow:auto}
+table{width:100%;border-collapse:collapse;font-size:13px}th,td{padding:7px;border-bottom:1px solid var(--line);text-align:left}th{background:#f6f7f9}
+.note{background:#fff7ed;border:1px solid #fed7aa;padding:10px;border-radius:8px;color:#7c2d12}
+.good{background:#ecfdf5;border:1px solid #a7f3d0;padding:10px;border-radius:8px;color:#065f46}
+.section{margin-top:18px}.full{grid-column:1/-1}
+.legend{display:flex;gap:16px;flex-wrap:wrap;font-size:12px;margin:7px 0}.dot{display:inline-block;width:10px;height:10px;border-radius:50%;margin-right:5px}
+@media(max-width:900px){.grid{grid-template-columns:1fr}.full{grid-column:auto}.metric{grid-template-columns:1fr 1fr}}
+</style>
+</head>
+<body>
+<header>
+<h1>CARF — Bounded Anchored Fusion</h1>
+<p>Interactive visualizer for the equations and mechanisms in the supplied CARF architecture.</p>
+</header>
+<main>
+<div class="grid">
+
+<section class="card">
+<h2>1. Expert inputs</h2>
+<div class="small">Move the sliders and watch every downstream quantity update.</div>
+
+<div class="control"><label>Clinical anchor pC <span class="value" id="pCv">0.70</span></label><input id="pC" type="range" min=".01" max=".99" step=".01" value=".70"></div>
+<div class="control"><label>RNA expert pR <span class="value" id="pRv">0.90</span></label><input id="pR" type="range" min=".01" max=".99" step=".01" value=".90"></div>
+<div class="control"><label>MRI expert pM <span class="value" id="pMv">0.30</span></label><input id="pM" type="range" min=".01" max=".99" step=".01" value=".30"></div>
+
+<div class="control"><label>Budget B <span class="value" id="Bv">1.00</span></label><input id="B" type="range" min=".1" max="4" step=".05" value="1"></div>
+
+<h3>Gate coefficients θ</h3>
+<div class="small">Six nonnegative coefficients. Their sum is constrained to ≤ 1.</div>
+<div id="thetaControls"></div>
+<div class="row"><button class="btn" id="equal">Equal θ</button><button class="btn" id="zero">Zero θ</button></div>
+
+<h3>Availability masks</h3>
+<label class="check"><input id="mR" type="checkbox" checked> RNA available (mR=1)</label>
+<label class="check"><input id="mM" type="checkbox" checked> MRI available (mM=1)</label>
+
+<h3>Platt scaling</h3>
+<div class="control"><label>α <span class="value" id="av">1.40</span></label><input id="alpha" type="range" min=".2" max="2.5" step=".01" value="1.40"></div>
+<div class="control"><label>β <span class="value" id="betav">0.00</span></label><input id="beta" type="range" min="-2" max="2" step=".01" value="0"></div>
+</section>
+
+<section class="card">
+<h2>2. From probabilities to logits and residuals</h2>
+<div class="formula">a = logit(pC) = ln[pC/(1-pC)]</div>
+<div class="formula">dj = logit(pj) − a</div>
+<div class="metric">
+<div><span>Anchor logit a</span><b id="aout">—</b></div>
+<div><span>RNA residual dR</span><b id="dRout">—</b></div>
+<div><span>MRI residual dM</span><b id="dMout">—</b></div>
+</div>
+<div class="plotTitle">Logit space</div>
+<canvas id="logitPlot"></canvas>
+<div class="small">The anchor is the reference point. Optional experts are represented by their signed logit distance from the anchor.</div>
+</section>
+
+<section class="card">
+<h2>3. Clip the residuals</h2>
+<div class="formula">rj = clip(dj, −B, B)</div>
+<div class="metric">
+<div><span>rR</span><b id="rRout">—</b></div>
+<div><span>rM</span><b id="rMout">—</b></div>
+<div><span>Budget B</span><b id="Bout2">—</b></div>
+</div>
+<canvas id="clipPlot"></canvas>
+<div class="small">Clipping prevents an optional expert from creating an arbitrarily large movement in logit space.</div>
+</section>
+
+<section class="card">
+<h2>4. Context functions</h2>
+<div class="formula">h0 = 1</div>
+<div class="formula">h1 = exp(−|dj|)</div>
+<div class="formula">h2 = 1 − H(pj)/log 2</div>
+<div class="formula">H(p) = −p log p − (1−p)log(1−p)</div>
+<div class="metric">
+<div><span>RNA: h0 / h1 / h2</span><b id="hRout">—</b></div>
+<div><span>MRI: h0 / h1 / h2</span><b id="hMout">—</b></div>
+<div><span>Normalized entropy</span><b id="entout">—</b></div>
+</div>
+<canvas id="contextPlot"></canvas>
+<div class="small">h1 shrinks corrections when the expert strongly disagrees with the anchor. h2 is high for confident expert probabilities and low near p=0.5.</div>
+</section>
+
+<section class="card full">
+<h2>5. Full CARF fusion equation</h2>
+<div class="formula">zθ = a + Σj∈{R,M} Σk=0..2 θjk mj hjk rj, &nbsp; θjk ≥ 0, &nbsp; Σθjk ≤ 1</div>
+<div class="metric">
+<div><span>Fused logit z</span><b id="zout">—</b></div>
+<div><span>Fused probability σ(z)</span><b id="pout">—</b></div>
+<div><span>Actual |z−a|</span><b id="dispout">—</b></div>
+</div>
+<canvas id="fusionPlot"></canvas>
+<div class="legend">
+<span><i class="dot" style="background:#2563eb"></i>Anchor</span>
+<span><i class="dot" style="background:#0f766e"></i>RNA</span>
+<span><i class="dot" style="background:#b45309"></i>MRI</span>
+<span><i class="dot" style="background:#7c3aed"></i>Fused</span>
+</div>
+</section>
+
+<section class="card">
+<h2>6. Why the budget gives a bound</h2>
+<div class="formula">bj = B Σk θjk</div>
+<div class="formula">b = bR + bM ≤ B</div>
+<div class="formula">|z−a| ≤ b</div>
+<div class="formula">|p̂−pC| ≤ b/4</div>
+<div class="metric">
+<div><span>RNA budget bR</span><b id="bRout">—</b></div>
+<div><span>MRI budget bM</span><b id="bMout">—</b></div>
+<div><span>Total bound b</span><b id="bout">—</b></div>
+</div>
+<div class="good">The sigmoid slope is at most 1/4, so a bounded logit displacement implies a bounded probability displacement.</div>
+</section>
+
+<section class="card">
+<h2>7. Platt calibration</h2>
+<div class="formula">p̂ = σ(αz + β)</div>
+<div class="metric">
+<div><span>Before calibration</span><b id="precal">—</b></div>
+<div><span>After calibration</span><b id="postcal">—</b></div>
+<div><span>α</span><b id="alphaout">—</b></div>
+</div>
+<canvas id="plattPlot"></canvas>
+<div class="small">For α&gt;0 the transformation is monotone, so the ranking of patients is preserved.</div>
+</section>
+
+<section class="card full">
+<h2>8. What Eq. (3) is doing during gate training</h2>
+<div class="formula">
+minθ  (1/4) Σe∈M Le(θ) + γ τ log[(1/4)Σe∈C exp(Le(θ)/τ)] + (λ/2)||θ||²
+</div>
+<div class="row">
+<label>Robustness weight γ <input id="gamma" type="number" min="0" max="2" step=".05" value=".25"></label>
+<label>Temperature τ <input id="tau" type="number" min=".005" max=".5" step=".005" value=".05"></label>
+<label>Ridge λ <input id="lambda" type="number" min="0" max=".5" step=".005" value=".01"></label>
+</div>
+<div class="metric">
+<div><span>Mean normal/missing loss</span><b id="Lmean">—</b></div>
+<div><span>Smoothed corruption max</span><b id="Lrob">—</b></div>
+<div><span>Objective (illustrative)</span><b id="Lobj">—</b></div>
+</div>
+<canvas id="lossPlot"></canvas>
+<div class="note"><b>Important:</b> Eq. (3) is a training objective, not something computed from one patient's probabilities alone. This panel uses a small synthetic set of outcomes to make the role of γ, τ and λ visible. The actual paper fits θ using out-of-fold expert predictions across masks and corruption environments.</div>
+</section>
+
+<section class="card full">
+<h2>9. Properties you can test interactively</h2>
+<table>
+<tr><th>Property</th><th>Meaning</th><th>Try it</th></tr>
+<tr><td>Fallback</td><td>If mR=mM=0, z=a exactly.</td><td>Uncheck both modalities.</td></tr>
+<tr><td>Bounded displacement</td><td>|z−a|≤b≤B.</td><td>Increase B and θ; observe the bound.</td></tr>
+<tr><td>Direction cannot reverse</td><td>Nonnegative θ means an optional expert cannot push opposite to its residual direction.</td><td>Make pR above pC and observe the RNA contribution stays positive.</td></tr>
+<tr><td>Entropy context</td><td>h2 is low near p=.5 and high near 0 or 1.</td><td>Move pR or pM through 0.5.</td></tr>
+<tr><td>Ranking certificate</td><td>If two anchor logits differ by more than 2b, optional inputs cannot reverse their anchor ordering.</td><td>Compare two hypothetical anchors by changing B/θ.</td></tr>
+</table>
+</section>
+
+</div>
+</main>
+<script>
+const $=id=>document.getElementById(id);
+const clamp=(x,a,b)=>Math.max(a,Math.min(b,x));
+const logit=p=>Math.log(p/(1-p));
+const sig=x=>1/(1+Math.exp(-x));
+const entropy=p=>{p=clamp(p,1e-12,1-1e-12);return -p*Math.log(p)-(1-p)*Math.log(1-p)};
+const fmt=x=>Number(x).toFixed(3);
+const thetaNames=["R0","R1","R2","M0","M1","M2"];
+const thetaDefaults=[.20,.15,.10,.20,.15,.10];
+let theta=[...thetaDefaults];
+
+function makeTheta(){
+  const box=$("thetaControls"); box.innerHTML="";
+  theta.forEach((v,i)=>{
+    const d=document.createElement("div");d.className="control";
+    d.innerHTML=`<label>${thetaNames[i]} <span class="value" id="tv${i}">${v.toFixed(2)}</span></label><input id="t${i}" type="range" min="0" max="0.5" step="0.01" value="${v}">`;
+    box.appendChild(d);
+    d.querySelector("input").oninput=e=>{theta[i]=+e.target.value;update()};
+  });
+}
+makeTheta();
+
+$("equal").onclick=()=>{theta=Array(6).fill(1/6);makeTheta();update()};
+$("zero").onclick=()=>{theta=Array(6).fill(0);makeTheta();update()};
+["pC","pR","pM","B","alpha","beta","gamma","tau","lambda","mR","mM"].forEach(id=>$(id).addEventListener("input",update));
+
+function setupCanvas(c){
+  const dpr=devicePixelRatio||1, r=c.getBoundingClientRect(); c.width=r.width*dpr;c.height=r.height*dpr;
+  const ctx=c.getContext("2d");ctx.setTransform(dpr,0,0,dpr,0,0);return [ctx,r.width,r.height];
+}
+function axes(ctx,w,h,xmin,xmax,ymin,ymax){
+  ctx.clearRect(0,0,w,h);ctx.strokeStyle="#cbd5e1";ctx.lineWidth=1;
+  const X=x=>30+(x-xmin)/(xmax-xmin)*(w-45),Y=y=>h-25-(y-ymin)/(ymax-ymin)*(h-40);
+  ctx.beginPath();ctx.moveTo(X(xmin),Y(0));ctx.lineTo(X(xmax),Y(0));ctx.moveTo(X(0),Y(ymin));ctx.lineTo(X(0),Y(ymax));ctx.stroke();
+  ctx.fillStyle="#64748b";ctx.font="11px system-ui";
+  return [X,Y];
+}
+function vline(ctx,X,Y,x,color,label){ctx.strokeStyle=color;ctx.beginPath();ctx.moveTo(X(x),Y(-10));ctx.lineTo(X(x),Y(10));ctx.stroke();ctx.fillStyle=color;ctx.fillText(label,X(x)-18,14)}
+function updatePlots(vals){
+  // logit plot
+  {const [ctx,w,h]=setupCanvas($("logitPlot"));const [X,Y]=axes(ctx,w,h,-5,5,-1,1);
+   ctx.strokeStyle="#94a3b8";ctx.beginPath();ctx.moveTo(X(-5),Y(0));ctx.lineTo(X(5),Y(0));ctx.stroke();
+   const pts=[["Anchor",vals.a,"#2563eb"],["RNA",vals.lr,"#0f766e"],["MRI",vals.lm,"#b45309"],["Fused",vals.z,"#7c3aed"]];
+   pts.forEach(q=>{ctx.fillStyle=q[2];ctx.beginPath();ctx.arc(X(q[1]),Y(.35),6,0,Math.PI*2);ctx.fill();ctx.fillText(q[0],X(q[1])-18,Y(.35)-10)});
+   ctx.fillStyle="#64748b";ctx.fillText("logit",w-45,h-8);
+  }
+  // clipping
+  {const [ctx,w,h]=setupCanvas($("clipPlot"));const [X,Y]=axes(ctx,w,h,-4,4,-1.1,1.1);
+   const B=vals.B;ctx.strokeStyle="#ef4444";ctx.setLineDash([5,4]);ctx.beginPath();ctx.moveTo(X(-B),Y(-1));ctx.lineTo(X(-B),Y(1));ctx.moveTo(X(B),Y(-1));ctx.lineTo(X(B),Y(1));ctx.stroke();ctx.setLineDash([]);
+   [["dR",vals.dR,"#0f766e"],["rR",vals.rR,"#0f766e"],["dM",vals.dM,"#b45309"],["rM",vals.rM,"#b45309"]].forEach((q,i)=>{let yy=.55-(i%2)*.75;ctx.fillStyle=q[2];ctx.beginPath();ctx.arc(X(q[1]),Y(yy),5,0,7);ctx.fill();ctx.fillText(q[0],X(q[1])-12,Y(yy)-9)});
+   ctx.fillStyle="#64748b";ctx.fillText("red dashed = ±B",35,18);
+  }
+  // context
+  {const [ctx,w,h]=setupCanvas($("contextPlot"));const [X,Y]=axes(ctx,w,h,.01,.99,0,1);
+   function curve(fn,color,label){ctx.strokeStyle=color;ctx.beginPath();for(let i=0;i<=200;i++){let p=.01+i*.98/200;let xx=X(p),yy=Y(fn(p));i?ctx.lineTo(xx,yy):ctx.moveTo(xx,yy)}ctx.stroke();ctx.fillStyle=color;ctx.fillText(label,X(.72),Y(fn(.72))-7)}
+   curve(p=>1,"#64748b","h0");curve(p=>Math.exp(-Math.abs(logit(p)-vals.a)),"#0f766e","h1");curve(p=>1-entropy(p)/Math.log(2),"#b45309","h2");
+   ctx.fillStyle="#64748b";ctx.fillText("expert probability p",w-115,h-8);
+  }
+  // fusion
+  {const [ctx,w,h]=setupCanvas($("fusionPlot"));const [X,Y]=axes(ctx,w,h,-5,5,0,1);
+   ctx.strokeStyle="#e2e8f0";ctx.beginPath();ctx.moveTo(X(-5),Y(.5));ctx.lineTo(X(5),Y(.5));ctx.stroke();
+   const pts=[["pC",vals.pC,"#2563eb"],["pR",vals.pR,"#0f766e"],["pM",vals.pM,"#b45309"],["p̂",vals.p,"#7c3aed"]];
+   pts.forEach(q=>{ctx.fillStyle=q[2];ctx.beginPath();ctx.arc(X(logit(q[1])),Y(q[1]),6,0,Math.PI*2);ctx.fill();ctx.fillText(q[0],X(logit(q[1]))-10,Y(q[1])-10)});
+   ctx.fillStyle="#64748b";ctx.fillText("logit position →",w-95,h-8);
+  }
+  // Platt
+  {const [ctx,w,h]=setupCanvas($("plattPlot"));const [X,Y]=axes(ctx,w,h,-4,4,0,1);
+   ctx.strokeStyle="#2563eb";ctx.beginPath();for(let i=0;i<=200;i++){let z=-4+i*8/200,p=sig(vals.alpha*z+vals.beta);i?ctx.lineTo(X(z),Y(p)):ctx.moveTo(X(z),Y(p))}ctx.stroke();
+   ctx.fillStyle="#64748b";ctx.fillText("p̂ = σ(αz+β)",45,18);
+  }
+  // loss synthetic visualization
+  {const [ctx,w,h]=setupCanvas($("lossPlot"));const [X,Y]=axes(ctx,w,h,0,1.5,0,2.5);
+   const gam=+$("gamma").value,tau=+$("tau").value,lam=+$("lambda").value;
+   const normal=vals.normalLoss, corrs=vals.corrs;
+   const mx=tau*Math.log(corrs.reduce((s,L)=>s+Math.exp(L/tau),0)/corrs.length);
+   const obj=normal+gam*mx+lam*theta.reduce((s,x)=>s+x*x,0)/2;
+   ctx.strokeStyle="#0f766e";ctx.beginPath();ctx.moveTo(X(0),Y(normal));ctx.lineTo(X(1.5),Y(normal));ctx.stroke();
+   ctx.strokeStyle="#b45309";ctx.beginPath();ctx.moveTo(X(0),Y(mx));ctx.lineTo(X(1.5),Y(mx));ctx.stroke();
+   ctx.strokeStyle="#7c3aed";ctx.beginPath();ctx.moveTo(X(0),Y(obj));ctx.lineTo(X(1.5),Y(obj));ctx.stroke();
+   ctx.fillStyle="#0f766e";ctx.fillText("normal/missing mean",45,Y(normal)-7);
+   ctx.fillStyle="#b45309";ctx.fillText("smoothed corruption max",45,Y(mx)-7);
+   ctx.fillStyle="#7c3aed";ctx.fillText("total objective",45,Y(obj)-7);
+   $("Lmean").textContent=fmt(normal);$("Lrob").textContent=fmt(mx);$("Lobj").textContent=fmt(obj);
+  }
+}
+function update(){
+  const pC=+$("pC").value,pR=+$("pR").value,pM=+$("pM").value,B=+$("B").value;
+  $("pCv").textContent=fmt(pC);$("pRv").textContent=fmt(pR);$("pMv").textContent=fmt(pM);$("Bv").textContent=fmt(B);
+  const a=logit(pC),lr=logit(pR),lm=logit(pM),dR=lr-a,dM=lm-a;
+  const rR=clamp(dR,-B,B),rM=clamp(dM,-B,B);
+  const hR=[1,Math.exp(-Math.abs(dR)),1-entropy(pR)/Math.log(2)];
+  const hM=[1,Math.exp(-Math.abs(dM)),1-entropy(pM)/Math.log(2)];
+  theta.forEach((t,i)=>{if($("tv"+i))$("tv"+i).textContent=t.toFixed(2)});
+  const mR=$("mR").checked?1:0,mM=$("mM").checked?1:0;
+  const z=a+mR*(theta[0]*hR[0]+theta[1]*hR[1]+theta[2]*hR[2])*rR+mM*(theta[3]*hM[0]+theta[4]*hM[1]+theta[5]*hM[2])*rM;
+  const p=sig(z),alpha=+$("alpha").value,beta=+$("beta").value,pc=sig(alpha*z+beta);
+  $("aout").textContent=fmt(a);$("dRout").textContent=fmt(dR);$("dMout").textContent=fmt(dM);
+  $("rRout").textContent=fmt(rR);$("rMout").textContent=fmt(rM);$("Bout2").textContent=fmt(B);
+  $("hRout").textContent=hR.map(fmt).join(" / ");$("hMout").textContent=hM.map(fmt).join(" / ");
+  $("entout").textContent=fmt((entropy(pR)+entropy(pM))/(2*Math.log(2)));
+  $("zout").textContent=fmt(z);$("pout").textContent=fmt(p);$("dispout").textContent=fmt(Math.abs(z-a));
+  const bR=B*(theta[0]+theta[1]+theta[2]),bM=B*(theta[3]+theta[4]+theta[5]),b=bR+bM;
+  $("bRout").textContent=fmt(bR);$("bMout").textContent=fmt(bM);$("bout").textContent=fmt(b);
+  $("precal").textContent=fmt(p);$("postcal").textContent=fmt(pc);$("alphaout").textContent=fmt(alpha);
+  const vals={pC,pR,pM,B,a,lr,lm,dR,dM,rR,rM,hR,hM,z,p,alpha,beta,normalLoss:0,corrs:[]};
+  // Synthetic loss panel: use the current patient as a tiny illustrative environment.
+  const y=0.75;
+  const masks=[[1,1],[1,0],[0,1],[0,0]];
+  vals.normalLoss=masks.reduce((s,[mr,mm])=>{
+    let zz=a+mr*(theta[0]*hR[0]+theta[1]*hR[1]+theta[2]*hR[2])*rR+mm*(theta[3]*hM[0]+theta[4]*hM[1]+theta[5]*hM[2])*rM;
+    let pp=sig(zz); return s-(y*Math.log(pp)+(1-y)*Math.log(1-pp));
+  },0)/4;
+  vals.corrs=[.01,.99].map(q=>{
+    let rr=clamp(logit(q)-a,-B,B),hh=[1,Math.exp(-Math.abs(logit(q)-a)),1-entropy(q)/Math.log(2)];
+    let zz=a+mR*(theta[0]*hh[0]+theta[1]*hh[1]+theta[2]*hh[2])*rr;
+    let pp=sig(zz);return -(y*Math.log(pp)+(1-y)*Math.log(1-pp));
+  });
+  updatePlots(vals);
+}
+update();
+window.addEventListener("resize",update);
+</script>
+</body>
+</html>

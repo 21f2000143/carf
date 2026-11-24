@@ -1,0 +1,1 @@
+{"name": "rppa", "optional": ["rna", "mri", "rppa"], "clin_cols": ["age", "hr", "her2"], "residual": false, "aux": true, "rna_k": 250, "C": {}}

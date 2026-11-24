@@ -1,0 +1,1 @@
+{"name": "treat_resid", "clin_cols": ["age", "hr", "her2", "anti_her2", "immunotherapy", "platinum", "her2_tki"], "residual": true, "rna_k": 250, "rna_C": null, "mri_C": null}

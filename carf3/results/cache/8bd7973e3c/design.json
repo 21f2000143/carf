@@ -1,0 +1,1 @@
+{"name": "treat", "optional": ["rna", "mri"], "clin_cols": ["age", "hr", "her2", "anti_her2", "immunotherapy", "platinum", "her2_tki"], "residual": false, "aux": true, "rna_k": 250, "C": {}}

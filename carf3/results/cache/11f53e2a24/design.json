@@ -1,0 +1,1 @@
+{"name": "base", "clin_cols": ["age", "hr", "her2"], "residual": false, "aux": true, "rna_k": 250, "rna_C": null, "mri_C": null}

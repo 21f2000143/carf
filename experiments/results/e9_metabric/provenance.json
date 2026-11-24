@@ -1,0 +1,150 @@
+{
+  "urls": {
+    "tarball_attempted": "https://cbioportal-datahub.s3.amazonaws.com/brca_metabric.tar.gz (HTTP 403)",
+    "data_clinical_patient.txt": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_clinical_patient.txt",
+    "data_clinical_sample.txt": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_clinical_sample.txt",
+    "data_mrna_illumina_microarray.txt": "https://media.githubusercontent.com/media/cBioPortal/datahub/master/public/brca_metabric/data_mrna_illumina_microarray.txt"
+  },
+  "data_sha256": {
+    "data_clinical_patient.txt": "2a6bbadc6e4b2b07c0505559d438da959fc5c9aba55c7194abc394e2d6454995",
+    "data_clinical_sample.txt": "9a2291e065e2a0a5337b4eaeb09836e70b1bc3e1ed17714a013b53515697e6dc",
+    "data_mrna_illumina_microarray.txt": "4470069455a4ed38ffed5d12513e468bbf5b9a57d66fa1162e7bd9a64889ab7a"
+  },
+  "code_sha256": {
+    "experiments/e9_metabric.py": "3d2b9a4f51f2e13922c3a1d485e918bbc2a4ca1479b36ce7bb16a39be6c5d0fc",
+    "experiments/tier1.py": "f0a399ae75d071667731e7bd3b96729d9f494a0f3ebc76186f4744b2e363cbf0",
+    "experiments/e5_robust_offset.py": "e8117cfb2c2813b0c7b2e96022491b916e4126415f67e8b607b7ba2af9dff7e3",
+    "experiments/a7_moddrop.py": "e20258021faa8abb6738a04b1a3075a03ec3c2ea9cd81fecf911ef180e5aadd7",
+    "experiments/e1_bootstrap.py": "16b7774b654ddeefdf9419b8c9ebbe4d06ba0b8212e6d4feae717025d785e76a",
+    "mike2026/src/anchored_fusion.py": "e65929f31977299d31f46b86ea65b38c31b85418d81c77337391f8e72a31d442",
+    "mike2026/scripts/run_revision2_analysis.py": "30608379e05373902abb6cf4b89ee2f94f3bc13c2c85be806152cd2237fd81fe",
+    "mike2026/scripts/run_revision3_analysis.py": "837e6838a962c48c2b8d526a81ceb7c3e6f4500c3544d06c7d6a38c14ea3a0fe"
+  },
+  "counts": {
+    "cohort1_5_total": 2268,
+    "excluded_dss_censored_or_unknown": 442,
+    "excluded_no_expression_train": 1,
+    "train_n": 734,
+    "train_events": 132,
+    "test_n": 1091,
+    "test_events": 205,
+    "natural_missing_test_n": 0,
+    "died_other_causes_le60_excluded": 90,
+    "n_genes": 20603
+  },
+  "expert_oof_auroc_train": {
+    "rna_oof_train": 0.7054137722742373,
+    "clinical_oof_train": 0.782517869727172
+  },
+  "nan_handling": {
+    "fit_fusions_on_nan_mri": "fails: ValueError: Input X contains NaN.\nLogisticRegression does not accept missing values encoded as NaN natively. For supervised learning",
+    "all_predictions_finite": true,
+    "carf_equals_carf_no_mri_max_abs_diff": 0.0
+  },
+  "gates": {
+    "carf": {
+      "coef": [
+        0.19959705482859436,
+        0.21702621333542346,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 15,
+        "objective": 0.7032330391178572
+      },
+      "modality_budgets_[rna,mri]": [
+        0.41662326816401785,
+        0.0
+      ]
+    },
+    "carf_no_robust": {
+      "coef": [
+        0.46269072154537466,
+        0.0,
+        0.4655510486247511,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 16,
+        "objective": 0.5502833455547999
+      }
+    },
+    "carf_no_context": {
+      "coef": [
+        0.21479718201808282,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 5,
+        "objective": 0.7035601335398484
+      }
+    },
+    "carf_unbounded": {
+      "coef": [
+        0.0313694355452917,
+        0.4880219234023483,
+        7.723691832493031e-18,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 12,
+        "objective": 0.7042458635798311
+      }
+    },
+    "carf_no_mri": {
+      "coef": [
+        0.19959705482859436,
+        0.21702621333542346,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 15,
+        "objective": 0.7032330391178572
+      }
+    },
+    "offset": {
+      "offset_lr": [
+        -1.4642448374966779,
+        0.1491868090238036,
+        0.0
+      ],
+      "offset_lr_masked": [
+        -1.497930192604613,
+        0.1450146881839967,
+        0.0
+      ],
+      "robust_offset_lr": [
+        -1.5137580251683453,
+        0.07481284330196337,
+        0.0
+      ]
+    },
+    "moddrop_params": {
+      "hidden": "(32, 16)",
+      "alpha": 0.01,
+      "inner_logloss": 0.3896626507218822
+    }
+  },
+  "seed": 20260923,
+  "split": "train COHORT 1-2, test COHORT 3-5; complete cases with expression",
+  "python": "3.11.16",
+  "numpy": "2.4.6",
+  "scipy": "1.17.1",
+  "sklearn": "1.9.1",
+  "pandas": "3.0.5"
+}

@@ -1,0 +1,150 @@
+{
+  "carf": {
+    "coef": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "budgets": [
+      0.0,
+      0.0
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.5588512446518454
+    }
+  },
+  "carf_no_robust": {
+    "coef": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "budgets": [
+      0.0,
+      0.0
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.44708099572147636
+    }
+  },
+  "carf_no_context": {
+    "coef": [
+      0.0,
+      0.0
+    ],
+    "budgets": [
+      0.0,
+      0.0
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.5588512446518454
+    }
+  },
+  "carf_unbounded": {
+    "coef": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "budgets": null,
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.5588512446518454
+    }
+  },
+  "carf_no_mri": {
+    "coef": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "budgets": [
+      0.0,
+      0.0
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.5588512446518454
+    }
+  },
+  "carf_B0.5": {
+    "coef": [
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "budgets": [
+      0.0,
+      0.0
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 1,
+      "objective": 0.5588512446518454
+    }
+  },
+  "carf_B2": {
+    "coef": [
+      0.0,
+      1.7575843832335303e-18,
+      0.0002317621532159487,
+      0.0,
+      0.0,
+      0.0002916843205296155
+    ],
+    "budgets": [
+      0.00046352430643190095,
+      0.000583368641059231
+    ],
+    "optimization": {
+      "success": true,
+      "iterations": 4,
+      "objective": 0.5588512394720625
+    }
+  },
+  "offset_lr": [
+    -0.319437601950928,
+    0.5750546184213512,
+    0.4933846749449406
+  ],
+  "offset_lr_masked": [
+    -0.09585470833819991,
+    0.4001211666064742,
+    0.23636376107751783
+  ],
+  "neural_params": {
+    "mlp_gate": {
+      "hidden": "(32, 16)",
+      "alpha": 0.01,
+      "inner_logloss": 0.440672513206377
+    },
+    "moddrop_mlp": {
+      "hidden": "(32, 16)",
+      "alpha": 0.001,
+      "inner_logloss": 0.44306231337804025
+    }
+  }
+}

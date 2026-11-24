@@ -1,0 +1,4 @@
+[Parallel(n_jobs=60)]: Using backend LokyBackend with 60 concurrent workers.
+[Parallel(n_jobs=60)]: Done  42 tasks      | elapsed:    3.9s
+[Parallel(n_jobs=60)]: Done 245 tasks      | elapsed:    7.0s
+[Parallel(n_jobs=60)]: Done 480 out of 480 | elapsed:   10.3s finished

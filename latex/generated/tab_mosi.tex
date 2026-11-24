@@ -1,0 +1,16 @@
+\begin{tabular}{@{}lcccccc@{}}
+\toprule
+ & \multicolumn{3}{c}{Intact} & \multicolumn{2}{c}{Permuted} & Worst \\
+\cmidrule(lr){2-4}\cmidrule(lr){5-6}
+Model & AUROC & Acc. & ECE & audio & visual & case \\
+\midrule
+Text (anchor) & 0.846 & 0.774 & 0.066 & 0.846 & 0.846 & 0.846 \\
+Mean & 0.852 & 0.726 & 0.195 & 0.838 & 0.848 & 0.794 \\
+Stacking & 0.850 & 0.783 & 0.050 & 0.845 & 0.850 & 0.841 \\
+Mask-stacking & 0.850 & 0.787 & 0.047 & 0.845 & 0.849 & 0.844 \\
+Offset LR (masks) & 0.851 & 0.765 & 0.083 & 0.846 & 0.850 & 0.826 \\
+ModDrop MLP & 0.854 & 0.776 & 0.059 & 0.844 & 0.851 & 0.825 \\
+CARF (no robust) & 0.846 & 0.774 & 0.066 & 0.846 & 0.846 & 0.846 \\
+CARF & 0.846 & 0.774 & 0.066 & 0.846 & 0.846 & 0.846 \\
+\bottomrule
+\end{tabular}

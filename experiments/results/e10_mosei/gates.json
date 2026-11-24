@@ -1,0 +1,302 @@
+{
+  "main": {
+    "carf": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_no_robust": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.3815037207462112
+      }
+    },
+    "carf_no_context": {
+      "coef": [
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_unbounded": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": null,
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_no_mri": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_B0.5": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_B2": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "offset_lr": [
+      -0.3949499686912705,
+      0.18457129109585546,
+      0.25857979607058795
+    ],
+    "offset_lr_masked": [
+      -0.09944877040615302,
+      0.12126764105530208,
+      0.1029975161646335
+    ],
+    "neural_params": {
+      "mlp_gate": {
+        "hidden": "(32, 16)",
+        "alpha": 0.01,
+        "inner_logloss": 0.3807702815552819
+      },
+      "moddrop_mlp": {
+        "hidden": "(32, 16)",
+        "alpha": 0.01,
+        "inner_logloss": 0.37807139777791
+      }
+    }
+  },
+  "mask_refit": {
+    "carf": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_no_robust": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.3815037207462112
+      }
+    },
+    "carf_no_context": {
+      "coef": [
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_unbounded": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": null,
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_no_mri": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_B0.5": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "carf_B2": {
+      "coef": [
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0,
+        0.0
+      ],
+      "budgets": [
+        0.0,
+        0.0
+      ],
+      "optimization": {
+        "success": true,
+        "iterations": 1,
+        "objective": 0.47687965093276397
+      }
+    },
+    "offset_lr": [
+      -0.3772193672113456,
+      0.18965115960749168,
+      0.23520517887604808
+    ],
+    "offset_lr_masked": [
+      -0.09677667145622616,
+      0.12165232490450255,
+      0.09724584894975241
+    ],
+    "neural_params": {
+      "mlp_gate": {
+        "hidden": "(32, 16)",
+        "alpha": 0.001,
+        "inner_logloss": 0.3800709154448751
+      },
+      "moddrop_mlp": {
+        "hidden": "(32, 16)",
+        "alpha": 0.001,
+        "inner_logloss": 0.37810002165298096
+      }
+    }
+  }
+}

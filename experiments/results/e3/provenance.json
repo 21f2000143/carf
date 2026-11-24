@@ -1,0 +1,57 @@
+{
+  "source_url": "https://huggingface.co/datasets/tamb2203579/CMU-MOSI/resolve/main/Processed/unaligned_50.pkl",
+  "dataset_repo": "https://huggingface.co/datasets/tamb2203579/CMU-MOSI (MMSA-format processed pickles)",
+  "files": {
+    "aligned_50.pkl": {
+      "sha256": "d3994fd25681f9c7ad6e9c6596a6fe9b4beb85ff7d478ba978b124139002e5f9",
+      "bytes": 367257274
+    },
+    "label.csv": {
+      "sha256": "dec8b0affc5c7c923688040f091dddb61966afc729f54630ef91d3f51624b821",
+      "bytes": 219663
+    },
+    "unaligned_50.pkl": {
+      "sha256": "78e0f8b5ef8ff71558e7307848fc1fa929ecb078203f565ab22b9daab2e02524",
+      "bytes": 554181170
+    }
+  },
+  "file_used": "unaligned_50.pkl",
+  "other_files_urls": {
+    "aligned_50.pkl": "https://huggingface.co/datasets/tamb2203579/CMU-MOSI/resolve/main/Processed/aligned_50.pkl",
+    "label.csv": "https://huggingface.co/datasets/tamb2203579/CMU-MOSI/resolve/main/label.csv"
+  },
+  "features": {
+    "text": "BERT token embeddings (768-d), mean+std over attention-masked tokens",
+    "audio": "COVAREP (5-d MMSA subset), mean+std over first audio_length frames",
+    "visual": "FACET (20-d), mean+std over first vision_length frames"
+  },
+  "label": "regression_labels >= 0 -> 1 (non-negative), < 0 -> 0 (Acc-2 incl. zeros as positive)",
+  "splits": {
+    "train": {
+      "n": 1284,
+      "positive": 732,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 1
+    },
+    "valid": {
+      "n": 229,
+      "positive": 137,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 0
+    },
+    "test": {
+      "n": 686,
+      "positive": 307,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 1
+    }
+  },
+  "seed": 20260923,
+  "code_sha256": {
+    "e3_second_domain.py": "9993010cfd41003c4408dbbcb4cbf9e55957f7537bb83cab512174625ae9ee0e",
+    "tier1.py": "f0a399ae75d071667731e7bd3b96729d9f494a0f3ebc76186f4744b2e363cbf0",
+    "a7_moddrop.py": "e20258021faa8abb6738a04b1a3075a03ec3c2ea9cd81fecf911ef180e5aadd7",
+    "anchored_fusion.py": "e65929f31977299d31f46b86ea65b38c31b85418d81c77337391f8e72a31d442",
+    "run_revision3_analysis.py": "837e6838a962c48c2b8d526a81ceb7c3e6f4500c3544d06c7d6a38c14ea3a0fe"
+  }
+}

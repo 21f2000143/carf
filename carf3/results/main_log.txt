@@ -1,0 +1,62 @@
+[Parallel(n_jobs=78)]: Using backend LokyBackend with 78 concurrent workers.
+[Parallel(n_jobs=78)]: Done  12 out of 104 | elapsed:   30.3s remaining:  3.9min
+[Parallel(n_jobs=78)]: Done  33 out of 104 | elapsed:  1.1min remaining:  2.4min
+[Parallel(n_jobs=78)]: Done  54 out of 104 | elapsed:  1.4min remaining:  1.3min
+[Parallel(n_jobs=78)]: Done  75 out of 104 | elapsed:  1.8min remaining:   42.7s
+[Parallel(n_jobs=78)]: Done  96 out of 104 | elapsed:  2.7min remaining:   13.3s
+[Parallel(n_jobs=78)]: Done 104 out of 104 | elapsed:  3.1min finished
+split                    False           True          
+scenario                intact rna_swap intact rna_swap
+design model                                           
+carf2  carf2             0.764    0.714  0.854    0.787
+       carf2_B1          0.758    0.714  0.855    0.791
+       carf2_const       0.765    0.714  0.855    0.787
+       carf2_no_gate     0.764    0.700  0.860    0.779
+       carf2_no_robust   0.763    0.687  0.853    0.734
+       carf2_no_swap     0.761    0.718  0.851    0.793
+       carf2_unbounded   0.759    0.716  0.866    0.778
+       carf_v1           0.761    0.711  0.855    0.790
+       clinical          0.677      NaN  0.802      NaN
+       mask_stack        0.764    0.693  0.858    0.731
+       mean              0.769    0.682  0.837    0.699
+       moddrop_mlp       0.764    0.704  0.859    0.725
+       mri               0.629      NaN  0.607      NaN
+       offset_lr         0.762    0.712  0.847    0.658
+       rna               0.723      NaN  0.809      NaN
+       robust_offset_lr  0.744    0.701  0.856    0.743
+       stack             0.766    0.685  0.846    0.693
+rppa   carf2             0.760    0.705  0.854    0.782
+       carf2_no_gate     0.761    0.689  0.860    0.774
+       carf_v1           0.755    0.698  0.853    0.787
+       clinical          0.662      NaN  0.802      NaN
+       mask_stack        0.759    0.681  0.859    0.720
+       mean              0.764    0.675  0.837    0.696
+       mri               0.629      NaN  0.607      NaN
+       rna               0.723      NaN  0.809      NaN
+       stack             0.759    0.671  0.842    0.670
+treat  carf2             0.746    0.688  0.853    0.788
+       carf2_no_gate     0.745    0.676  0.864    0.780
+       carf_v1           0.738    0.684  0.852    0.789
+       clinical          0.677      NaN  0.802      NaN
+       mask_stack        0.751    0.653  0.859    0.732
+       mean              0.756    0.635  0.837    0.699
+       mri               0.629      NaN  0.607      NaN
+       rna               0.723      NaN  0.809      NaN
+       stack             0.752    0.634  0.850    0.698
+v1     carf2             0.741    0.675  0.853    0.780
+       carf2_B1          0.738    0.674  0.849    0.780
+       carf2_const       0.741    0.677  0.849    0.779
+       carf2_no_gate     0.741    0.662  0.859    0.772
+       carf2_no_robust   0.750    0.646  0.845    0.706
+       carf2_no_swap     0.734    0.678  0.850    0.786
+       carf2_unbounded   0.732    0.676  0.857    0.783
+       carf_v1           0.731    0.670  0.849    0.783
+       clinical          0.662      NaN  0.802      NaN
+       mask_stack        0.745    0.639  0.860    0.724
+       mean              0.751    0.626  0.837    0.696
+       moddrop_mlp       0.746    0.646  0.853    0.717
+       mri               0.629      NaN  0.607      NaN
+       offset_lr         0.743    0.665  0.844    0.650
+       rna               0.723      NaN  0.809      NaN
+       robust_offset_lr  0.727    0.670  0.847    0.758
+       stack             0.747    0.618  0.851    0.682

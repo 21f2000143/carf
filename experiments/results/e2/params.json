@@ -1,0 +1,42 @@
+{
+  "beta_R": 1.8,
+  "beta_C": 1.45,
+  "beta_M": 0.9,
+  "tau": 0.5,
+  "prevalence": 0.3,
+  "n_train": 1000,
+  "n_test": 2000,
+  "n_rep": 50,
+  "n_folds": 5,
+  "moddrop_hidden": [
+    32,
+    16
+  ],
+  "moddrop_alpha": 0.001,
+  "carf_budgets": [
+    0.5,
+    1.0,
+    2.0
+  ],
+  "intercept_base": -1.5856271565569728,
+  "intercept_strong": -2.277531565392475,
+  "seed": 20260924,
+  "qs": [
+    0.0,
+    0.25,
+    0.5,
+    1.0
+  ],
+  "deltas": [
+    0.0,
+    0.5,
+    1.0,
+    2.0
+  ],
+  "cost_k": [
+    1.0,
+    1.5,
+    2.0,
+    3.0
+  ]
+}

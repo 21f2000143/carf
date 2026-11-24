@@ -1,0 +1,118 @@
+{
+  "carf": {
+    "coef": [
+      0.33695113390218046,
+      0.39497517067395166,
+      6.978502158236864e-18,
+      0.26807369542386783,
+      1.749358881810752e-18,
+      2.1359751038683496e-17
+    ],
+    "settings": {
+      "anchor": 1,
+      "bounded": true,
+      "budget": 1.0,
+      "context": true,
+      "l2": 0.01,
+      "robust_weight": 0.25,
+      "temperature": 0.05
+    },
+    "optimization": {
+      "success": true,
+      "iterations": 21,
+      "objective": 0.7844202549103539
+    }
+  },
+  "carf_no_robust": {
+    "coef": [
+      0.6564301742160019,
+      1.1076011038160223e-17,
+      0.10536267058909471,
+      0.23820715519490335,
+      0.0,
+      3.08165446974789e-17
+    ],
+    "settings": {
+      "anchor": 1,
+      "bounded": true,
+      "budget": 1.0,
+      "context": true,
+      "l2": 0.01,
+      "robust_weight": 0,
+      "temperature": 0.05
+    },
+    "optimization": {
+      "success": true,
+      "iterations": 16,
+      "objective": 0.6132940246183266
+    }
+  },
+  "carf_no_context": {
+    "coef": [
+      0.3802029573030288,
+      0.2809385381851297
+    ],
+    "settings": {
+      "anchor": 1,
+      "bounded": true,
+      "budget": 1.0,
+      "context": false,
+      "l2": 0.01,
+      "robust_weight": 0.25,
+      "temperature": 0.05
+    },
+    "optimization": {
+      "success": true,
+      "iterations": 8,
+      "objective": 0.785812569457965
+    }
+  },
+  "carf_unbounded": {
+    "coef": [
+      0.04089622761252563,
+      0.9160774659465869,
+      1.0098754885615883e-17,
+      0.03289456232790828,
+      0.3712800840324458,
+      6.7054665750269595e-18
+    ],
+    "settings": {
+      "anchor": 1,
+      "bounded": false,
+      "budget": 1.0,
+      "context": true,
+      "l2": 0.01,
+      "robust_weight": 0.25,
+      "temperature": 0.05
+    },
+    "optimization": {
+      "success": true,
+      "iterations": 20,
+      "objective": 0.7893544411371755
+    }
+  },
+  "carf_no_mri": {
+    "coef": [
+      0.30181872482466054,
+      0.46893061768230454,
+      0.0,
+      0.0,
+      0.0,
+      0.0
+    ],
+    "settings": {
+      "anchor": 1,
+      "bounded": true,
+      "budget": 1.0,
+      "context": true,
+      "l2": 0.01,
+      "robust_weight": 0.25,
+      "temperature": 0.05
+    },
+    "optimization": {
+      "success": true,
+      "iterations": 15,
+      "objective": 0.7895380145317424
+    }
+  }
+}

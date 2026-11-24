@@ -1,0 +1,14 @@
+{
+  "max_abs_diff_rebuilt_vs_cached": [
+    1.7929568774111004e-08,
+    2.220446049250313e-16,
+    9.468455119943098e-05
+  ],
+  "max_abs_diff_processed_vs_cached": [
+    1.7929568774111004e-08,
+    2.220446049250313e-16,
+    9.4684551199542e-05
+  ],
+  "mri_feature_max_rel_diff_rebuilt_vs_processed": 7.548041431629274e-13,
+  "n_checked": 112
+}

@@ -1,0 +1,72 @@
+# Not synced (per author)
+papers-earlier/
+project.md
+CLAUDE.md
+**/CLAUDE.md
+_to_delete/
+
+# Environments and caches
+mike2026/env/
+**/__pycache__/
+*.pyc
+.venv*/
+
+# Large or re-downloadable data
+mike2026/data/revision2/images/
+mike2026/data/revision2/raw/
+experiments/data_e3/
+experiments/data_e7/
+experiments/data_e8/
+experiments/data_e9/
+experiments/data_e10/
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.fls
+*.fdb_latexmk
+*.blg
+*.out
+*.synctex.gz
+*.bbl
+
+# Tool and editor caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+.openvisio/
+
+# OS-generated files
+.DS_Store
+._*
+Thumbs.db
+desktop.ini
+
+# Editor and IDE files
+*.swp
+*.swo
+*~
+.idea/
+.vscode/
+
+# Claude Code local settings
+.claude/settings.local.json
+
+# Extra LaTeX build artifacts
+*.bcf
+*.run.xml
+*.toc
+*.lof
+*.lot
+*.nav
+*.snm
+*.vrb
+*.dvi
+*.synctex(busy)
+mike2026/results/revision3/cache/33fbe7a65bc3fd7e/
+__pycache__/

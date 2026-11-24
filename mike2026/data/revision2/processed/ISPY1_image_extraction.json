@@ -1,0 +1,2758 @@
+{
+  "archive": "BreastDCEDL_ISPY1_min_crop.tar.gz",
+  "publisher_md5": "md5:d2d2630940a861819e6a385877f45ba5",
+  "files": [
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1219_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2991293
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1219_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3168076
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1219_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3194133
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1177_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1580318
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1177_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1672438
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1177_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1659299
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1196_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1892652
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1196_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2062849
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1196_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2061598
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1227_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1154105
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1227_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1217906
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1227_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1216058
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1036_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3184811
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1036_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3436227
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1036_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3468638
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1054_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3642721
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1054_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3841370
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1054_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3814672
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1140_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3096373
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1140_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3367220
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1140_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3376041
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1011_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2003274
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1011_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2124488
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1011_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2112700
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1053_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1007610
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1053_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1040191
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1053_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1047186
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1100_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1557275
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1100_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1693240
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1100_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1707766
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1181_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3445431
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1181_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3783550
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1181_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3773601
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1199_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3693706
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1199_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3895810
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1199_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3913859
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1114_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2203723
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1114_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2305613
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1114_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2342040
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1066_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1392972
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1066_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1498467
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1066_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1493056
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1237_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1507580
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1237_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1547000
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1237_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1580658
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1101_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2398505
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1101_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2651353
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1101_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2690565
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1147_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2337865
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1147_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2571854
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1147_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2569443
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1007_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2411111
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1007_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2510060
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1007_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2549774
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1003_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1839661
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1003_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1961729
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1003_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1964181
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1012_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3498153
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1012_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3769105
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1012_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3754641
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1191_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1611112
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1191_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1757537
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1191_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1718285
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1070_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2167561
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1070_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2337530
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1070_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2347593
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1193_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1976644
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1193_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2050241
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1193_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2001538
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1087_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2150567
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1087_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2310699
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1087_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2324852
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1069_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1786269
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1069_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1724391
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1069_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1855926
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1001_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2247717
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1001_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2341350
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1001_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2372311
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1215_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1695543
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1215_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1958854
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1215_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 1946976
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1008_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2287166
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1008_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2369698
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1008_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2368651
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1103_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3693944
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1103_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3939159
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1103_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3996368
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1139_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3183531
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1139_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3625447
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1155_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2842464
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1155_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3088412
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1155_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3086606
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1164_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1578222
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1164_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1638235
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1164_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1644859
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1112_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2329254
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1112_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2460194
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1112_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2453391
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1078_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2067485
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1078_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2236184
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1078_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2231978
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1099_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2115748
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1099_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2313979
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1099_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2292398
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1034_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3134853
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1034_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3392572
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1034_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 3356321
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1218_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2251058
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1218_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2337297
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1218_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2387046
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1188_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 779175
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1188_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 819848
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1188_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 818161
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1197_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4639061
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1197_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4815433
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1197_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4817934
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1204_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1437347
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1204_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1522851
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1204_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1545664
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1156_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3452233
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1156_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3488054
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1156_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3609149
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1169_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2807607
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1169_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2857726
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1169_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2837404
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1062_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3624093
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1062_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3881405
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1062_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3916563
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1089_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3618730
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1089_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4193581
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1089_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 4191400
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1228_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 5361063
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1228_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 5579848
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1228_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 5622473
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1134_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1685939
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1134_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1814620
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1134_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1825140
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1061_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2052584
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1061_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2191833
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1061_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2203678
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1027_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1773848
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1027_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1959488
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1027_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1938287
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1141_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2719266
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1141_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2849315
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1141_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2847894
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1194_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3379873
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1194_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3803313
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1194_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 3799943
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1231_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1957586
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1231_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2105232
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1231_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2124172
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1225_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2219567
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1225_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2333943
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1225_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2347362
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1107_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 996955
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1107_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1088147
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1107_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1060088
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1179_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1826122
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1179_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1945055
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1179_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1981413
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1029_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1883770
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1029_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1958677
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1029_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1981498
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1239_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 760716
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1239_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 836794
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1239_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 823076
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1208_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4050198
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1208_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4329914
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1208_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4347616
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1124_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2874280
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1124_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3194576
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1124_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 3202900
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1002_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1682780
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1002_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1772563
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1002_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1785216
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1077_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1586888
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1077_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1541536
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1077_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1626049
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1072_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1982452
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1072_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1995497
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1072_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1983070
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1235_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1951943
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1235_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2059354
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1235_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2071162
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1167_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 6330228
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1167_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 6707321
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1167_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 6712030
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1176_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2074299
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1176_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2182971
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1176_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2187620
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1037_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2275127
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1037_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2433564
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1037_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2419096
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1212_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1140459
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1212_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1333898
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1212_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 1308979
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1040_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3238325
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1040_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3411149
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1040_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3426419
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1084_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2397859
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1084_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2578196
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1084_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2590620
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1104_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2117070
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1104_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2300942
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1104_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 2302961
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1135_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2351639
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1135_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2511034
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1135_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2530836
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1122_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2631286
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1122_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2811632
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1122_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2807207
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1217_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1745653
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1217_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1802656
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1217_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1808052
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1236_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1746579
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1236_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1789257
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1236_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1832364
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1060_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3394107
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1060_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3799989
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1060_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 3792372
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1130_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 957703
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1130_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1063122
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1130_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1047638
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1222_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1130182
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1222_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1228277
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1222_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1221783
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1056_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3268873
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1056_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3488946
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1056_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3473227
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1038_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1471839
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1038_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1528840
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1038_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 1526492
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1075_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2164468
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1075_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2288675
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1075_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2296087
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1031_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2522933
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1031_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2658207
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1031_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2694474
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1230_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2823752
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1230_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2873581
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1230_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2858466
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1223_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1261731
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1223_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1333640
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1223_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1338807
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1198_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2237870
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1198_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2305721
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1198_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2312248
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1161_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2402534
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1161_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2533861
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1161_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2540939
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1097_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2015469
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1097_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2232316
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1097_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2271929
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1189_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1233947
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1189_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1327020
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1189_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1330912
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1238_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3332143
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1238_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3475915
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1238_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3507116
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1148_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1994187
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1148_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2083482
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1148_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 1788072
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1074_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4057878
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1074_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4345759
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1074_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4362474
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1128_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1177192
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1128_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1265073
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1128_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1257614
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1152_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1413281
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1152_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1538173
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1152_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1525650
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1184_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1130860
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1184_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1277768
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1184_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 1265939
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1183_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2426052
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1183_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2528811
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1183_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2580921
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1233_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2298342
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1233_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2337488
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1233_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2357876
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1005_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4287431
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1005_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4561789
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1005_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4569503
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1187_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3283802
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1187_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3547012
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1187_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3585923
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1016_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3953888
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1016_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4092484
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1016_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 4119396
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1073_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3248750
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1073_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3528678
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1073_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3533239
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1009_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1885882
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1009_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2024366
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1009_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2007422
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1051_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3167375
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1051_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3348417
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1051_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3388508
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1210_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3066287
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1210_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3236431
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1210_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3272319
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1065_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2423403
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1065_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2529823
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1065_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 2538055
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1132_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2298178
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1132_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2485049
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1132_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2503635
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1088_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3095677
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1088_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3334397
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1088_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3342604
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1041_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2654450
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1041_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2876546
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1041_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2872270
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1015_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3301675
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1015_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3391849
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1015_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3421661
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1010_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2545424
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1010_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2732741
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1010_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2758245
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1150_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2541429
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1150_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2685968
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1150_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2700229
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1032_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2495941
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1032_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2640441
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1032_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2645129
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1220_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2357130
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1220_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2547287
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1220_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2546605
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1098_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2117052
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1098_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2257447
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1098_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 2272250
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1157_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1383803
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1157_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1515124
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1157_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1508438
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1083_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3134491
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1083_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3576559
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1083_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3505566
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1042_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2523572
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1042_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2635753
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1042_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2547725
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1158_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 933858
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1158_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 989652
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1158_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 992488
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1221_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3188055
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1221_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3506348
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1221_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3507308
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1082_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3362190
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1082_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3640563
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1082_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3688439
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1146_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2203245
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1146_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2435892
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1146_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2416618
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1171_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1993202
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1171_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2166433
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1171_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2173584
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1168_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 996344
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1168_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1067274
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1168_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1060446
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1123_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2759077
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1123_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2924186
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1123_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2901844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1049_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4298776
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1049_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 5092690
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1049_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 5213496
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1136_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2194269
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1136_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2327531
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1136_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2332503
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1216_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 674645
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1216_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 748960
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1216_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 747334
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1160_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2203093
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1160_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2307400
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1160_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2313668
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1172_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1534417
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1172_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1783696
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1172_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1747663
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1106_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1752887
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1106_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1946355
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1106_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 1989271
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1234_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1121647
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1234_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1184288
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1234_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1187340
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1129_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 5467586
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1129_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 5882698
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1129_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 5896425
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1209_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1354918
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1209_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1463844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1209_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1455753
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1030_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2401975
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1030_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2573531
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1030_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2563549
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1224_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1561742
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1224_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1600606
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1224_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1593057
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1226_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1525941
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1226_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1638503
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1226_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1642837
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1137_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2648384
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1137_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2862163
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1137_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2837125
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1145_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4030551
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1145_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4515714
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1145_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4504515
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1163_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1861115
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1163_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1959880
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1163_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1948138
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1201_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2429965
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1201_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2489047
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1201_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2533780
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1013_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2582799
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1013_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2694729
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1013_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2716268
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1185_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2371372
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1185_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2651127
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1185_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2626011
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1021_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3612325
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1021_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3902575
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1021_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3880602
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1090_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2112772
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1090_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2188037
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1090_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2207513
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1149_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2012938
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1149_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2181044
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1149_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2209393
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1117_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2886659
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1117_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3108177
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1117_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3139442
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1174_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3758450
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1174_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4179892
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1174_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4140662
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1229_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1713990
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1229_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1864376
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1229_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1850425
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1125_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 940428
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1125_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1046087
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1125_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 1043488
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1166_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2206236
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1166_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2316469
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1166_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2315242
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1094_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4127985
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1094_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4413500
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1094_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4453285
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1096_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2680424
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1096_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2793550
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1096_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2816644
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1182_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3638529
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1182_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3794897
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1182_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 3810040
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1203_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4174902
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1203_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4479051
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1203_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4470804
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1127_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2363969
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1127_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2521833
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1127_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2524779
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1207_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1087014
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1207_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1158700
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1207_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1151105
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1165_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2010765
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1165_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2367042
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1165_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 2351256
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1175_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2616895
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1175_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2850073
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1175_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2855226
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1102_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3395954
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1102_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3688198
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1102_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3700994
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1017_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2802557
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1017_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2904083
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1017_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2906393
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1180_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1237819
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1180_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1278742
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1180_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 1281187
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1058_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1352463
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1058_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1458269
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1058_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1450048
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1004_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4579379
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1004_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 4900363
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1004_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 4904243
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1151_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3155331
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1151_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3428717
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1151_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3458889
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1202_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1646054
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1202_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1668423
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1202_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1681779
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1144_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2181389
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1144_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2390698
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1144_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2386606
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1159_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3315977
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1159_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3490920
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1159_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3515269
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1173_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 4718553
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1173_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 5038815
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1173_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 5031723
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1192_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1083745
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1192_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 1139825
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1192_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 1155321
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1142_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 3570489
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1142_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3937933
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1142_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 3932023
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1120_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 872448
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1120_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 935049
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1120_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 935865
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1025_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 899511
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1025_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 958740
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1025_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 958093
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1064_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2226165
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1064_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 2346213
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1064_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2360257
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1035_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 2562244
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1035_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2875463
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1035_spy1_vis1_dce_aqc_3.nii.gz",
+      "bytes": 2881882
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1205_spy1_vis1_dce_aqc_0.nii.gz",
+      "bytes": 1685947
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1205_spy1_vis1_dce_aqc_2.nii.gz",
+      "bytes": 2018014
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1205_spy1_vis1_dce_aqc_5.nii.gz",
+      "bytes": 2019584
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/dce/ISPY1_1139_spy1_vis1_dce_aqc_1.nii.gz",
+      "bytes": 3619296
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1219_spy1_vis1_mask.nii.gz",
+      "bytes": 87168
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1177_spy1_vis1_mask.nii.gz",
+      "bytes": 56142
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1196_spy1_vis1_mask.nii.gz",
+      "bytes": 65620
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1227_spy1_vis1_mask.nii.gz",
+      "bytes": 40094
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1036_spy1_vis1_mask.nii.gz",
+      "bytes": 137615
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1054_spy1_vis1_mask.nii.gz",
+      "bytes": 122714
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1140_spy1_vis1_mask.nii.gz",
+      "bytes": 147328
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1011_spy1_vis1_mask.nii.gz",
+      "bytes": 64720
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1053_spy1_vis1_mask.nii.gz",
+      "bytes": 29297
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1100_spy1_vis1_mask.nii.gz",
+      "bytes": 58680
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1181_spy1_vis1_mask.nii.gz",
+      "bytes": 159199
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1199_spy1_vis1_mask.nii.gz",
+      "bytes": 115481
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1114_spy1_vis1_mask.nii.gz",
+      "bytes": 122601
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1066_spy1_vis1_mask.nii.gz",
+      "bytes": 42840
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1237_spy1_vis1_mask.nii.gz",
+      "bytes": 52882
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1101_spy1_vis1_mask.nii.gz",
+      "bytes": 132502
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1147_spy1_vis1_mask.nii.gz",
+      "bytes": 112053
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1007_spy1_vis1_mask.nii.gz",
+      "bytes": 61912
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1003_spy1_vis1_mask.nii.gz",
+      "bytes": 71144
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1012_spy1_vis1_mask.nii.gz",
+      "bytes": 135962
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1191_spy1_vis1_mask.nii.gz",
+      "bytes": 58795
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1070_spy1_vis1_mask.nii.gz",
+      "bytes": 74457
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1193_spy1_vis1_mask.nii.gz",
+      "bytes": 58303
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1087_spy1_vis1_mask.nii.gz",
+      "bytes": 78592
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1069_spy1_vis1_mask.nii.gz",
+      "bytes": 64442
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1001_spy1_vis1_mask.nii.gz",
+      "bytes": 90064
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1215_spy1_vis1_mask.nii.gz",
+      "bytes": 99893
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1008_spy1_vis1_mask.nii.gz",
+      "bytes": 68087
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1103_spy1_vis1_mask.nii.gz",
+      "bytes": 246126
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1139_spy1_vis1_mask.nii.gz",
+      "bytes": 170370
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1155_spy1_vis1_mask.nii.gz",
+      "bytes": 104196
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1164_spy1_vis1_mask.nii.gz",
+      "bytes": 45721
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1112_spy1_vis1_mask.nii.gz",
+      "bytes": 70799
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1078_spy1_vis1_mask.nii.gz",
+      "bytes": 74497
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1099_spy1_vis1_mask.nii.gz",
+      "bytes": 100420
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1034_spy1_vis1_mask.nii.gz",
+      "bytes": 125509
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1218_spy1_vis1_mask.nii.gz",
+      "bytes": 81840
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1188_spy1_vis1_mask.nii.gz",
+      "bytes": 23726
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1197_spy1_vis1_mask.nii.gz",
+      "bytes": 136884
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1204_spy1_vis1_mask.nii.gz",
+      "bytes": 52480
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1156_spy1_vis1_mask.nii.gz",
+      "bytes": 195242
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1169_spy1_vis1_mask.nii.gz",
+      "bytes": 97075
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1062_spy1_vis1_mask.nii.gz",
+      "bytes": 138620
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1089_spy1_vis1_mask.nii.gz",
+      "bytes": 248450
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1228_spy1_vis1_mask.nii.gz",
+      "bytes": 158302
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1134_spy1_vis1_mask.nii.gz",
+      "bytes": 68113
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1061_spy1_vis1_mask.nii.gz",
+      "bytes": 81336
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1027_spy1_vis1_mask.nii.gz",
+      "bytes": 70530
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1141_spy1_vis1_mask.nii.gz",
+      "bytes": 84952
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1194_spy1_vis1_mask.nii.gz",
+      "bytes": 377920
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1231_spy1_vis1_mask.nii.gz",
+      "bytes": 108388
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1225_spy1_vis1_mask.nii.gz",
+      "bytes": 55526
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1107_spy1_vis1_mask.nii.gz",
+      "bytes": 30294
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1179_spy1_vis1_mask.nii.gz",
+      "bytes": 72168
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1029_spy1_vis1_mask.nii.gz",
+      "bytes": 62093
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1239_spy1_vis1_mask.nii.gz",
+      "bytes": 36844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1208_spy1_vis1_mask.nii.gz",
+      "bytes": 140648
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1124_spy1_vis1_mask.nii.gz",
+      "bytes": 152275
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1002_spy1_vis1_mask.nii.gz",
+      "bytes": 54715
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1077_spy1_vis1_mask.nii.gz",
+      "bytes": 59207
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1072_spy1_vis1_mask.nii.gz",
+      "bytes": 50979
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1235_spy1_vis1_mask.nii.gz",
+      "bytes": 82321
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1167_spy1_vis1_mask.nii.gz",
+      "bytes": 253023
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1176_spy1_vis1_mask.nii.gz",
+      "bytes": 66280
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1037_spy1_vis1_mask.nii.gz",
+      "bytes": 113912
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1212_spy1_vis1_mask.nii.gz",
+      "bytes": 64750
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1040_spy1_vis1_mask.nii.gz",
+      "bytes": 144006
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1084_spy1_vis1_mask.nii.gz",
+      "bytes": 91844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1104_spy1_vis1_mask.nii.gz",
+      "bytes": 96754
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1135_spy1_vis1_mask.nii.gz",
+      "bytes": 79967
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1122_spy1_vis1_mask.nii.gz",
+      "bytes": 93343
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1217_spy1_vis1_mask.nii.gz",
+      "bytes": 34858
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1236_spy1_vis1_mask.nii.gz",
+      "bytes": 51308
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1060_spy1_vis1_mask.nii.gz",
+      "bytes": 199497
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1130_spy1_vis1_mask.nii.gz",
+      "bytes": 29323
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1222_spy1_vis1_mask.nii.gz",
+      "bytes": 56711
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1056_spy1_vis1_mask.nii.gz",
+      "bytes": 158753
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1038_spy1_vis1_mask.nii.gz",
+      "bytes": 47656
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1075_spy1_vis1_mask.nii.gz",
+      "bytes": 75869
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1031_spy1_vis1_mask.nii.gz",
+      "bytes": 92349
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1230_spy1_vis1_mask.nii.gz",
+      "bytes": 134189
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1223_spy1_vis1_mask.nii.gz",
+      "bytes": 42026
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1198_spy1_vis1_mask.nii.gz",
+      "bytes": 42593
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1161_spy1_vis1_mask.nii.gz",
+      "bytes": 95084
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1097_spy1_vis1_mask.nii.gz",
+      "bytes": 79678
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1189_spy1_vis1_mask.nii.gz",
+      "bytes": 48837
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1238_spy1_vis1_mask.nii.gz",
+      "bytes": 88215
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1148_spy1_vis1_mask.nii.gz",
+      "bytes": 58164
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1074_spy1_vis1_mask.nii.gz",
+      "bytes": 159690
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1128_spy1_vis1_mask.nii.gz",
+      "bytes": 41145
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1152_spy1_vis1_mask.nii.gz",
+      "bytes": 61663
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1184_spy1_vis1_mask.nii.gz",
+      "bytes": 63828
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1183_spy1_vis1_mask.nii.gz",
+      "bytes": 110621
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1233_spy1_vis1_mask.nii.gz",
+      "bytes": 70472
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1005_spy1_vis1_mask.nii.gz",
+      "bytes": 155515
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1187_spy1_vis1_mask.nii.gz",
+      "bytes": 204819
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1016_spy1_vis1_mask.nii.gz",
+      "bytes": 108016
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1073_spy1_vis1_mask.nii.gz",
+      "bytes": 150547
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1009_spy1_vis1_mask.nii.gz",
+      "bytes": 77619
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1051_spy1_vis1_mask.nii.gz",
+      "bytes": 143030
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1210_spy1_vis1_mask.nii.gz",
+      "bytes": 106092
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1065_spy1_vis1_mask.nii.gz",
+      "bytes": 91652
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1132_spy1_vis1_mask.nii.gz",
+      "bytes": 88214
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1088_spy1_vis1_mask.nii.gz",
+      "bytes": 129992
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1041_spy1_vis1_mask.nii.gz",
+      "bytes": 129134
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1015_spy1_vis1_mask.nii.gz",
+      "bytes": 116560
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1010_spy1_vis1_mask.nii.gz",
+      "bytes": 102935
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1150_spy1_vis1_mask.nii.gz",
+      "bytes": 80580
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1032_spy1_vis1_mask.nii.gz",
+      "bytes": 80813
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1220_spy1_vis1_mask.nii.gz",
+      "bytes": 88405
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1098_spy1_vis1_mask.nii.gz",
+      "bytes": 92315
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1157_spy1_vis1_mask.nii.gz",
+      "bytes": 57844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1083_spy1_vis1_mask.nii.gz",
+      "bytes": 136693
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1042_spy1_vis1_mask.nii.gz",
+      "bytes": 68251
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1158_spy1_vis1_mask.nii.gz",
+      "bytes": 35806
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1221_spy1_vis1_mask.nii.gz",
+      "bytes": 152030
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1082_spy1_vis1_mask.nii.gz",
+      "bytes": 135835
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1146_spy1_vis1_mask.nii.gz",
+      "bytes": 68284
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1171_spy1_vis1_mask.nii.gz",
+      "bytes": 77073
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1168_spy1_vis1_mask.nii.gz",
+      "bytes": 44902
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1123_spy1_vis1_mask.nii.gz",
+      "bytes": 116556
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1049_spy1_vis1_mask.nii.gz",
+      "bytes": 423328
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1136_spy1_vis1_mask.nii.gz",
+      "bytes": 91610
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1216_spy1_vis1_mask.nii.gz",
+      "bytes": 28344
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1160_spy1_vis1_mask.nii.gz",
+      "bytes": 84938
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1172_spy1_vis1_mask.nii.gz",
+      "bytes": 63606
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1106_spy1_vis1_mask.nii.gz",
+      "bytes": 90987
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1234_spy1_vis1_mask.nii.gz",
+      "bytes": 39159
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1129_spy1_vis1_mask.nii.gz",
+      "bytes": 199727
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1209_spy1_vis1_mask.nii.gz",
+      "bytes": 43363
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1030_spy1_vis1_mask.nii.gz",
+      "bytes": 84032
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1224_spy1_vis1_mask.nii.gz",
+      "bytes": 49844
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1226_spy1_vis1_mask.nii.gz",
+      "bytes": 68608
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1137_spy1_vis1_mask.nii.gz",
+      "bytes": 105626
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1145_spy1_vis1_mask.nii.gz",
+      "bytes": 243385
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1163_spy1_vis1_mask.nii.gz",
+      "bytes": 60583
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1201_spy1_vis1_mask.nii.gz",
+      "bytes": 82724
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1013_spy1_vis1_mask.nii.gz",
+      "bytes": 79726
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1185_spy1_vis1_mask.nii.gz",
+      "bytes": 108862
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1021_spy1_vis1_mask.nii.gz",
+      "bytes": 146492
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1090_spy1_vis1_mask.nii.gz",
+      "bytes": 64965
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1149_spy1_vis1_mask.nii.gz",
+      "bytes": 65636
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1117_spy1_vis1_mask.nii.gz",
+      "bytes": 123438
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1174_spy1_vis1_mask.nii.gz",
+      "bytes": 173696
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1229_spy1_vis1_mask.nii.gz",
+      "bytes": 85826
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1125_spy1_vis1_mask.nii.gz",
+      "bytes": 56075
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1166_spy1_vis1_mask.nii.gz",
+      "bytes": 82693
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1094_spy1_vis1_mask.nii.gz",
+      "bytes": 160083
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1096_spy1_vis1_mask.nii.gz",
+      "bytes": 72235
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1182_spy1_vis1_mask.nii.gz",
+      "bytes": 122189
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1203_spy1_vis1_mask.nii.gz",
+      "bytes": 161162
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1127_spy1_vis1_mask.nii.gz",
+      "bytes": 82563
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1207_spy1_vis1_mask.nii.gz",
+      "bytes": 43249
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1165_spy1_vis1_mask.nii.gz",
+      "bytes": 175030
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1175_spy1_vis1_mask.nii.gz",
+      "bytes": 105097
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1102_spy1_vis1_mask.nii.gz",
+      "bytes": 136568
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1017_spy1_vis1_mask.nii.gz",
+      "bytes": 97425
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1180_spy1_vis1_mask.nii.gz",
+      "bytes": 35011
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1058_spy1_vis1_mask.nii.gz",
+      "bytes": 41902
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1004_spy1_vis1_mask.nii.gz",
+      "bytes": 179080
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1151_spy1_vis1_mask.nii.gz",
+      "bytes": 139912
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1202_spy1_vis1_mask.nii.gz",
+      "bytes": 46428
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1144_spy1_vis1_mask.nii.gz",
+      "bytes": 88909
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1159_spy1_vis1_mask.nii.gz",
+      "bytes": 96901
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1173_spy1_vis1_mask.nii.gz",
+      "bytes": 162569
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1192_spy1_vis1_mask.nii.gz",
+      "bytes": 31300
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1142_spy1_vis1_mask.nii.gz",
+      "bytes": 160262
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1120_spy1_vis1_mask.nii.gz",
+      "bytes": 27333
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1025_spy1_vis1_mask.nii.gz",
+      "bytes": 37001
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1064_spy1_vis1_mask.nii.gz",
+      "bytes": 88926
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1035_spy1_vis1_mask.nii.gz",
+      "bytes": 149661
+    },
+    {
+      "path": "BreastDCEDL_ISPY1_min_crop/mask/ISPY1_1205_spy1_vis1_mask.nii.gz",
+      "bytes": 134053
+    }
+  ]
+}

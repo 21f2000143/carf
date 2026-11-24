@@ -1,0 +1,7 @@
+{
+  "total_pairs": 6216,
+  "certified_fraction": 0.1426962676962677,
+  "rna_logit_budget": 0.7319263045761322,
+  "mri_logit_budget": 0.26807369542386783,
+  "note": "Stability of anchor order, not correctness"
+}

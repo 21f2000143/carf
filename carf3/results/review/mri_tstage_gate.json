@@ -1,0 +1,8 @@
+{
+ "n": 108,
+ "n_t3": 53,
+ "mri_predicts_tstage_auc": 0.8120068610634649,
+ "gate_auc_tstage": 0.6591117969821674,
+ "gate_true_mean_tstage": 0.9334782919867867,
+ "gate_swap_low_frac_tstage": 0.08671296296296296
+}

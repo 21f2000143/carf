@@ -1,0 +1,26 @@
+\documentclass[runningheads]{llncs}
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\input{generated/macros}
+\begin{document}
+\section*{Macro spot check}
+Ext CARF \ExtCarf, clin \ExtClin, $\Delta$ [\DClinLo, \DClinHi], ModDrop \ExtModDrop, loss \RnaPermLossCarf,
+certified \CertifiedPairs\%, Platt $\alpha=\PlattAlpha$, $\beta=\PlattBeta$, perm $p=\PermPCarf$, NatAll \NatAllN{} (\NatAllCarf).
+Genes \NGenes, budgets \RnaBudget/\MriBudget/\TotalBudget.
+\begin{table}\centering\caption{Main}\input{generated/tab_main}\end{table}
+\begin{table}\centering\caption{Stress}\input{generated/tab_stress}\end{table}
+\begin{table}\centering\caption{Design stress}\input{generated/tab_design_stress}\end{table}
+\begin{table}\centering\caption{Natural}\input{generated/tab_natural}\end{table}
+\begin{table}\centering\caption{Perm}\input{generated/tab_perm}\end{table}
+\begin{table}\centering\caption{Anchor}\input{generated/tab_anchor}\end{table}
+\begin{table}\centering\caption{Synth}\input{generated/tab_synth}\end{table}
+\begin{table}\centering\caption{Main full}\input{generated/tab_main_full}\end{table}
+\begin{table}\centering\caption{Stress full}\input{generated/tab_stress_full}\end{table}
+\begin{table}\centering\caption{Calib}\input{generated/tab_calib}\end{table}
+\begin{table}\centering\caption{Sweep}\input{generated/tab_sweep}\end{table}
+\begin{figure}\centering\includegraphics[width=0.95\linewidth]{figures/fig_architecture}\caption{Arch}\end{figure}
+\begin{figure}\centering\includegraphics[width=\linewidth]{figures/fig_tradeoff}\caption{Tradeoff}\end{figure}
+\begin{figure}\centering\includegraphics[width=0.5\linewidth]{figures/fig_reliability}\caption{Reliability}\end{figure}
+\begin{figure}\centering\includegraphics[width=\linewidth]{figures/fig_synthetic}\\\includegraphics[width=\linewidth]{figures/fig_anchor_sweep}\caption{E2}\end{figure}
+\end{document}

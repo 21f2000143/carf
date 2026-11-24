@@ -1,0 +1,137 @@
+{
+  "source_url": "https://huggingface.co/datasets/tamb2203579/CMU-MOSEI/resolve/main/Processed/unaligned_50.pkl",
+  "dataset_repo": "https://huggingface.co/datasets/tamb2203579/CMU-MOSEI (MMSA-format processed pickles)",
+  "files": {
+    "label.csv": {
+      "sha256": "52d885bd1e8b29a4c06a69e2b1dd67dd02f7bcbdfa38ad918144fd5673a83521",
+      "bytes": 3512157
+    },
+    "unaligned_50.pkl": {
+      "sha256": "ad8b23d50557045e7d47959ce6c5b955d8d983f2979c7d9b7b9226f6dd6fec1f",
+      "bytes": 13652131313
+    }
+  },
+  "hf_lfs_sha256_unaligned_50": "ad8b23d50557045e7d47959ce6c5b955d8d983f2979c7d9b7b9226f6dd6fec1f",
+  "file_used": "unaligned_50.pkl",
+  "features": {
+    "text": "BERT token embeddings (768-d), mean+std over attention-masked tokens",
+    "audio": "COVAREP (74-d MMSA), mean+std over first audio_length frames",
+    "visual": "FACET (35-d MMSA), mean+std over first vision_length frames"
+  },
+  "label": "regression_labels >= 0 -> 1 (non-negative), < 0 -> 0 (Acc-2 incl. zeros as positive)",
+  "natural_missing_definition": "valid length <= 0, or no finite non-zero value within the valid length",
+  "splits": {
+    "train": {
+      "n": 16326,
+      "positive": 11588,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 119,
+      "nat_missing_both": 0,
+      "audio_len0": 0,
+      "vision_len0": 0,
+      "audio_nonfinite_values": 0,
+      "vision_nonfinite_values": 0,
+      "text_empty": 0,
+      "shapes": {
+        "text": [
+          16326,
+          50,
+          768
+        ],
+        "text_bert": [
+          16326,
+          3,
+          50
+        ],
+        "audio": [
+          16326,
+          500,
+          74
+        ],
+        "vision": [
+          16326,
+          500,
+          35
+        ]
+      }
+    },
+    "valid": {
+      "n": 1871,
+      "positive": 1365,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 4,
+      "nat_missing_both": 0,
+      "audio_len0": 0,
+      "vision_len0": 0,
+      "audio_nonfinite_values": 0,
+      "vision_nonfinite_values": 0,
+      "text_empty": 0,
+      "shapes": {
+        "text": [
+          1871,
+          50,
+          768
+        ],
+        "text_bert": [
+          1871,
+          3,
+          50
+        ],
+        "audio": [
+          1871,
+          500,
+          74
+        ],
+        "vision": [
+          1871,
+          500,
+          35
+        ]
+      }
+    },
+    "test": {
+      "n": 4659,
+      "positive": 3309,
+      "nat_missing_audio": 0,
+      "nat_missing_visual": 60,
+      "nat_missing_both": 0,
+      "audio_len0": 0,
+      "vision_len0": 0,
+      "audio_nonfinite_values": 0,
+      "vision_nonfinite_values": 0,
+      "text_empty": 0,
+      "shapes": {
+        "text": [
+          4659,
+          50,
+          768
+        ],
+        "text_bert": [
+          4659,
+          3,
+          50
+        ],
+        "audio": [
+          4659,
+          500,
+          74
+        ],
+        "vision": [
+          4659,
+          500,
+          35
+        ]
+      }
+    }
+  },
+  "seed": 20260923,
+  "n_jobs": 64,
+  "code_sha256": {
+    "e10_mosei.py": "82978054a27c8aa64f5f128fe166033a9c93fb2afa38896d03d9bebad90d9667",
+    "e3_second_domain.py": "9993010cfd41003c4408dbbcb4cbf9e55957f7537bb83cab512174625ae9ee0e",
+    "tier1.py": "f0a399ae75d071667731e7bd3b96729d9f494a0f3ebc76186f4744b2e363cbf0",
+    "a7_moddrop.py": "e20258021faa8abb6738a04b1a3075a03ec3c2ea9cd81fecf911ef180e5aadd7",
+    "anchored_fusion.py": "e65929f31977299d31f46b86ea65b38c31b85418d81c77337391f8e72a31d442",
+    "run_revision3_analysis.py": "837e6838a962c48c2b8d526a81ceb7c3e6f4500c3544d06c7d6a38c14ea3a0fe"
+  }
+}

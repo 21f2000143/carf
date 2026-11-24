@@ -1,0 +1,23 @@
+{
+  "hashes": {
+    "src/anchored_fusion.py": "e65929f31977299d31f46b86ea65b38c31b85418d81c77337391f8e72a31d442",
+    "scripts/run_revision3_analysis.py": "8680b84158b8785ba5b7526981b0a7d149485022865446db5ac45e2a9291b9a5",
+    "scripts/run_revision2_analysis.py": "277f80824daf699342cd06377855c3fdf603a12d0f36b055755a0052a8aacc8e",
+    "revision3/ANALYSIS_PLAN.md": "a9b56ff66d68d7aceb36d1b6b891826d806d6eec1097cf50d95911a46bb155e0",
+    "data/revision2/processed/ISPY1_meta.csv": "bcfefdcd3c415607c97d27c915106bbfe93212a203671c6701361649b6c0a6f7",
+    "data/revision2/processed/ISPY2_meta.csv": "d86d2601867b10cd3fe4e0b1cca559d6b6c01f4dd76664ca4777404d6ed4ecd1",
+    "data/revision2/processed/ISPY1_expression.csv.gz": "1266e91aa7de6ef989e5a2b03c129f9a11362fdc4e7bde1e7f82175837e4d7a9",
+    "data/revision2/processed/ISPY2_RPPA_expression.csv.gz": "8f4fea9a3e11aa7d474be683eb738011fb988b6cfd46deba7f1628e5eaeb8dfd",
+    "data/revision2/processed/ISPY2_expression.csv.gz": "91a6a793f02037e0caa5d4c0b7b71f1eb88f6c575974bc73aa86f77e2084e905",
+    "data/revision2/processed/ISPY1_mri.csv": "a41173f9dab0ff13e348adf1f2199f910fdb01039eb4735db3376aef027d36a4",
+    "data/revision2/processed/ISPY2_mri.csv": "a4a554d4dfb167a1898b02abee8a6c583cc4c9dec81d30f1a81d9a62991a4b2f"
+  },
+  "cache_signature": "33fbe7a65bc3fd7e",
+  "seed": 20260923,
+  "repeats": 5,
+  "python": "3.13.11",
+  "numpy": "2.2.6",
+  "scipy": "1.16.3",
+  "sklearn": "1.7.2",
+  "external_status": "Exploratory reuse; previous external outcomes informed research context"
+}

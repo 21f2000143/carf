@@ -1,0 +1,28 @@
+{
+  "anchor_platt_slope_oof": 1.0879185024446476,
+  "corr_residual_vs_minus_anchor": {
+    "audio": 0.9760566474912428,
+    "visual": 0.9973684723174918
+  },
+  "sd_logit": {
+    "audio": 0.41484183455493867,
+    "text": 1.8964028577272227,
+    "visual": 0.13797431776550548
+  },
+  "grad_at_zero_no_robust_no_l2_no_context_full_mask": [
+    0.005717080642562362,
+    0.01417199021187473
+  ],
+  "coef_no_robust_no_l2": [
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0,
+    0.0
+  ],
+  "coef_unbounded_no_context_no_robust_no_l2": [
+    0.006087261576512534,
+    0.0
+  ]
+}

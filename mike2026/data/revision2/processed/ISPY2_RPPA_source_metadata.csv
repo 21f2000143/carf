@@ -1,0 +1,737 @@
+patient_id,gsm,title,source_name_ch1,her2,hr,pcr,arm,arm (short name),rppa array (normalization key),platform_id,pcr_source
+180663,GSM5859233,180663,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+943633,GSM5859234,943633,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+284355,GSM5859235,284355,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+518000,GSM5859236,518000,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+374106,GSM5859237,374106,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+860901,GSM5859238,860901,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+586207,GSM5859239,586207,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+805136,GSM5859240,805136,breast cancer biopsy,1,0,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+677910,GSM5859241,677910,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+118307,GSM5859242,118307,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+734997,GSM5859243,734997,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+962664,GSM5859244,962664,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+587604,GSM5859245,587604,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+847272,GSM5859246,847272,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+540539,GSM5859247,540539,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+413961,GSM5859248,413961,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+109874,GSM5859249,109874,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+714205,GSM5859250,714205,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+992609,GSM5859251,992609,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+621179,GSM5859252,621179,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+157270,GSM5859253,157270,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+685795,GSM5859254,685795,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+746265,GSM5859255,746265,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+431061,GSM5859256,431061,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+797639,GSM5859257,797639,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+796558,GSM5859258,796558,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+131595,GSM5859259,131595,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+335536,GSM5859260,335536,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+571995,GSM5859261,571995,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+971492,GSM5859262,971492,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+566011,GSM5859263,566011,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+792181,GSM5859264,792181,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+326433,GSM5859265,326433,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+233962,GSM5859266,233962,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+727255,GSM5859267,727255,breast cancer biopsy,1,0,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+640463,GSM5859268,640463,breast cancer biopsy,0,1,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+262131,GSM5859269,262131,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+326202,GSM5859270,326202,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+804233,GSM5859271,804233,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+836114,GSM5859272,836114,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+414286,GSM5859273,414286,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+301968,GSM5859274,301968,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+590299,GSM5859275,590299,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+771151,GSM5859276,771151,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+234723,GSM5859277,234723,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+139137,GSM5859278,139137,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+283070,GSM5859279,283070,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+934459,GSM5859280,934459,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+959366,GSM5859281,959366,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+426106,GSM5859282,426106,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+622315,GSM5859283,622315,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+586091,GSM5859284,586091,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+843554,GSM5859285,843554,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+313243,GSM5859286,313243,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+876511,GSM5859287,876511,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+120001,GSM5859288,120001,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+736721,GSM5859289,736721,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+331192,GSM5859290,331192,breast cancer biopsy,0,1,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+515141,GSM5859291,515141,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+809649,GSM5859292,809649,breast cancer biopsy,1,0,1,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,1
+172283,GSM5859293,172283,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+564234,GSM5859294,564234,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+727804,GSM5859295,727804,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+783427,GSM5859296,783427,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,1
+299364,GSM5859297,299364,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+663467,GSM5859298,663467,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+778020,GSM5859299,778020,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+374121,GSM5859300,374121,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+380769,GSM5859301,380769,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+925691,GSM5859302,925691,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+570380,GSM5859303,570380,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+623086,GSM5859304,623086,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+559263,GSM5859305,559263,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+294265,GSM5859306,294265,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+489504,GSM5859307,489504,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+194024,GSM5859308,194024,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+497010,GSM5859309,497010,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+550157,GSM5859310,550157,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+960490,GSM5859311,960490,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+443708,GSM5859312,443708,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+609642,GSM5859313,609642,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+581180,GSM5859314,581180,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+245655,GSM5859315,245655,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+435313,GSM5859316,435313,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+479417,GSM5859317,479417,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+367682,GSM5859318,367682,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+421917,GSM5859319,421917,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+668752,GSM5859320,668752,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+180027,GSM5859321,180027,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+286984,GSM5859322,286984,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+949444,GSM5859323,949444,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+414971,GSM5859324,414971,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+661730,GSM5859325,661730,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+726091,GSM5859326,726091,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+787415,GSM5859327,787415,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+651401,GSM5859328,651401,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+845783,GSM5859329,845783,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+934906,GSM5859330,934906,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+783771,GSM5859331,783771,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+849605,GSM5859332,849605,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+532183,GSM5859333,532183,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+411008,GSM5859334,411008,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+885871,GSM5859335,885871,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+536253,GSM5859336,536253,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+535569,GSM5859337,535569,breast cancer biopsy,1,0,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+910706,GSM5859338,910706,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+928815,GSM5859339,928815,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+706639,GSM5859340,706639,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+637752,GSM5859341,637752,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+530095,GSM5859342,530095,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+332655,GSM5859343,332655,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+136536,GSM5859344,136536,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.2,GPL28470,1
+254060,GSM5859345,254060,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+421829,GSM5859346,421829,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+873686,GSM5859347,873686,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+252748,GSM5859348,252748,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,1
+935460,GSM5859349,935460,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+742477,GSM5859350,742477,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+689076,GSM5859351,689076,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+753109,GSM5859352,753109,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+729732,GSM5859353,729732,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+427321,GSM5859354,427321,breast cancer biopsy,0,1,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+289107,GSM5859355,289107,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+219545,GSM5859356,219545,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+294739,GSM5859357,294739,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+861745,GSM5859358,861745,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+309830,GSM5859359,309830,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+792412,GSM5859360,792412,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+478655,GSM5859361,478655,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+347516,GSM5859362,347516,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+282082,GSM5859363,282082,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,1
+604380,GSM5859364,604380,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+553141,GSM5859365,553141,breast cancer biopsy,0,1,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+243836,GSM5859366,243836,breast cancer biopsy,0,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+651541,GSM5859367,651541,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+233832,GSM5859368,233832,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+664111,GSM5859369,664111,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+768214,GSM5859370,768214,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+660915,GSM5859371,660915,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+800710,GSM5859372,800710,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+573605,GSM5859373,573605,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+402384,GSM5859374,402384,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+409288,GSM5859375,409288,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+547405,GSM5859376,547405,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+591180,GSM5859377,591180,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+857165,GSM5859378,857165,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+117424,GSM5859379,117424,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+570966,GSM5859380,570966,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+423619,GSM5859381,423619,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+340186,GSM5859382,340186,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+172168,GSM5859383,172168,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+618240,GSM5859384,618240,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+201831,GSM5859385,201831,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+147139,GSM5859386,147139,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+574091,GSM5859387,574091,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+653927,GSM5859388,653927,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+152090,GSM5859389,152090,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+111038,GSM5859390,111038,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+904269,GSM5859391,904269,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+997702,GSM5859392,997702,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+965265,GSM5859393,965265,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+658541,GSM5859394,658541,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+712785,GSM5859395,712785,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+521860,GSM5859396,521860,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+291515,GSM5859397,291515,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+247641,GSM5859398,247641,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+801641,GSM5859399,801641,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+950131,GSM5859400,950131,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+129973,GSM5859401,129973,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+932200,GSM5859402,932200,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+348009,GSM5859403,348009,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+748611,GSM5859404,748611,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.2,GPL28470,1
+970839,GSM5859405,970839,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+614044,GSM5859406,614044,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+345574,GSM5859407,345574,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+639663,GSM5859408,639663,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+213328,GSM5859409,213328,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+127675,GSM5859410,127675,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+436371,GSM5859411,436371,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+679787,GSM5859412,679787,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+563856,GSM5859413,563856,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+345907,GSM5859414,345907,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+515565,GSM5859415,515565,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+848003,GSM5859416,848003,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+202956,GSM5859417,202956,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+520258,GSM5859418,520258,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+732137,GSM5859419,732137,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+220664,GSM5859420,220664,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+275626,GSM5859421,275626,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+116603,GSM5859422,116603,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+835658,GSM5859423,835658,breast cancer biopsy,0,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+461824,GSM5859424,461824,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+790722,GSM5859425,790722,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+257735,GSM5859426,257735,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+676048,GSM5859427,676048,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+317641,GSM5859428,317641,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+941926,GSM5859429,941926,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+218249,GSM5859430,218249,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+424541,GSM5859431,424541,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+735673,GSM5859432,735673,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+240432,GSM5859433,240432,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+114087,GSM5859434,114087,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+414844,GSM5859435,414844,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+116165,GSM5859436,116165,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+802105,GSM5859437,802105,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+371528,GSM5859438,371528,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+706169,GSM5859439,706169,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+552549,GSM5859440,552549,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+200222,GSM5859441,200222,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+311455,GSM5859442,311455,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+899381,GSM5859443,899381,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+458196,GSM5859444,458196,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+845663,GSM5859445,845663,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+229144,GSM5859446,229144,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+483667,GSM5859447,483667,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+484894,GSM5859448,484894,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+598798,GSM5859449,598798,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+756412,GSM5859450,756412,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+802778,GSM5859451,802778,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+573881,GSM5859452,573881,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+711476,GSM5859453,711476,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.2,GPL28470,1
+709559,GSM5859454,709559,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+803514,GSM5859455,803514,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+591810,GSM5859456,591810,breast cancer biopsy,0,1,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+456506,GSM5859457,456506,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+553012,GSM5859458,553012,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+229824,GSM5859459,229824,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+112606,GSM5859460,112606,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+327133,GSM5859461,327133,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+395076,GSM5859462,395076,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+841336,GSM5859463,841336,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+473505,GSM5859464,473505,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+406190,GSM5859465,406190,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+929391,GSM5859466,929391,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+602943,GSM5859467,602943,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+999264,GSM5859468,999264,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+177795,GSM5859469,177795,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+663197,GSM5859470,663197,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+630758,GSM5859471,630758,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+746731,GSM5859472,746731,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+178649,GSM5859473,178649,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+369040,GSM5859474,369040,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+500826,GSM5859475,500826,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+520986,GSM5859476,520986,breast cancer biopsy,0,1,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+528833,GSM5859477,528833,breast cancer biopsy,1,1,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+660534,GSM5859478,660534,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+930172,GSM5859479,930172,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+517870,GSM5859480,517870,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+613188,GSM5859481,613188,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+111344,GSM5859482,111344,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+803677,GSM5859483,803677,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+725455,GSM5859484,725455,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+151481,GSM5859485,151481,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+640927,GSM5859486,640927,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+942017,GSM5859487,942017,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+848371,GSM5859488,848371,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+494946,GSM5859489,494946,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+832056,GSM5859490,832056,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+333145,GSM5859491,333145,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+883886,GSM5859492,883886,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+489194,GSM5859493,489194,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+830958,GSM5859494,830958,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+361701,GSM5859495,361701,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+644186,GSM5859496,644186,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+622688,GSM5859497,622688,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+267306,GSM5859498,267306,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+692885,GSM5859499,692885,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+446263,GSM5859500,446263,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+883696,GSM5859501,883696,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+680881,GSM5859502,680881,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+953262,GSM5859503,953262,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+778527,GSM5859504,778527,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+320538,GSM5859505,320538,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+690089,GSM5859506,690089,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+851223,GSM5859507,851223,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+104268,GSM5859508,104268,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+294176,GSM5859509,294176,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+181442,GSM5859510,181442,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+597873,GSM5859511,597873,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+318438,GSM5859512,318438,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+502486,GSM5859513,502486,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+103693,GSM5859514,103693,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+543795,GSM5859515,543795,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+159352,GSM5859516,159352,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+218503,GSM5859517,218503,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+318569,GSM5859518,318569,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+812089,GSM5859519,812089,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+615873,GSM5859520,615873,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+697098,GSM5859521,697098,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+284593,GSM5859522,284593,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+889049,GSM5859523,889049,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+506623,GSM5859524,506623,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+293142,GSM5859525,293142,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+231633,GSM5859526,231633,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+105513,GSM5859527,105513,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+568331,GSM5859528,568331,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+587388,GSM5859529,587388,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+794428,GSM5859530,794428,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+132463,GSM5859531,132463,breast cancer biopsy,1,1,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+425173,GSM5859532,425173,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+139771,GSM5859533,139771,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+892390,GSM5859534,892390,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+485637,GSM5859535,485637,breast cancer biopsy,0,0,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+373672,GSM5859536,373672,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+641977,GSM5859537,641977,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+685753,GSM5859538,685753,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+572793,GSM5859539,572793,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+974181,GSM5859540,974181,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+238790,GSM5859541,238790,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+527320,GSM5859542,527320,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+771813,GSM5859543,771813,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+628692,GSM5859544,628692,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+234272,GSM5859545,234272,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+382853,GSM5859546,382853,breast cancer biopsy,1,0,1,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,1
+188091,GSM5859547,188091,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+685182,GSM5859548,685182,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+290413,GSM5859549,290413,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+728287,GSM5859550,728287,breast cancer biopsy,1,1,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+913225,GSM5859551,913225,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+422013,GSM5859552,422013,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+944419,GSM5859553,944419,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+775346,GSM5859554,775346,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+579881,GSM5859555,579881,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+906042,GSM5859556,906042,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+809037,GSM5859557,809037,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+726381,GSM5859558,726381,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+178815,GSM5859559,178815,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+601489,GSM5859560,601489,breast cancer biopsy,1,0,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+317402,GSM5859561,317402,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+366120,GSM5859562,366120,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+683896,GSM5859563,683896,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+437162,GSM5859564,437162,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+356399,GSM5859565,356399,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+241998,GSM5859566,241998,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+498985,GSM5859567,498985,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+130892,GSM5859568,130892,breast cancer biopsy,0,1,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+974618,GSM5859569,974618,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+380239,GSM5859570,380239,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+924812,GSM5859571,924812,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+572731,GSM5859572,572731,breast cancer biopsy,0,1,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+899692,GSM5859573,899692,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.2,GPL28470,1
+752469,GSM5859574,752469,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+349225,GSM5859575,349225,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+208650,GSM5859576,208650,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+705381,GSM5859577,705381,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+472799,GSM5859578,472799,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+836983,GSM5859579,836983,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+916645,GSM5859580,916645,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+442981,GSM5859581,442981,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+111004,GSM5859582,111004,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+507249,GSM5859583,507249,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+865416,GSM5859584,865416,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+896621,GSM5859585,896621,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+654021,GSM5859586,654021,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+242370,GSM5859587,242370,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+209397,GSM5859588,209397,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+724384,GSM5859589,724384,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+254273,GSM5859590,254273,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+990443,GSM5859591,990443,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+501303,GSM5859592,501303,breast cancer biopsy,1,0,1,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,1
+929980,GSM5859593,929980,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+220471,GSM5859594,220471,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+266840,GSM5859595,266840,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+123660,GSM5859596,123660,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+416434,GSM5859597,416434,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+609151,GSM5859598,609151,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+872188,GSM5859599,872188,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+169536,GSM5859600,169536,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+316996,GSM5859601,316996,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+641246,GSM5859602,641246,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+287300,GSM5859603,287300,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+108969,GSM5859604,108969,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+683374,GSM5859605,683374,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+863161,GSM5859606,863161,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+211408,GSM5859607,211408,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+201873,GSM5859608,201873,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+891645,GSM5859609,891645,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+519738,GSM5859610,519738,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+275034,GSM5859611,275034,breast cancer biopsy,1,1,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+839274,GSM5859612,839274,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+477994,GSM5859613,477994,breast cancer biopsy,1,1,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+995480,GSM5859614,995480,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+122287,GSM5859615,122287,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+432114,GSM5859616,432114,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+125130,GSM5859617,125130,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+649198,GSM5859618,649198,breast cancer biopsy,1,0,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+786003,GSM5859619,786003,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+287961,GSM5859620,287961,breast cancer biopsy,1,1,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+788149,GSM5859621,788149,breast cancer biopsy,1,1,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+356684,GSM5859622,356684,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+723918,GSM5859623,723918,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+255535,GSM5859624,255535,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+491779,GSM5859625,491779,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+587691,GSM5859626,587691,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+896852,GSM5859627,896852,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+324021,GSM5859628,324021,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+516763,GSM5859629,516763,breast cancer biopsy,1,0,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+108939,GSM5859630,108939,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+539291,GSM5859631,539291,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+111881,GSM5859632,111881,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+604326,GSM5859633,604326,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+947398,GSM5859634,947398,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+464547,GSM5859635,464547,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+329941,GSM5859636,329941,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+644609,GSM5859637,644609,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+285339,GSM5859638,285339,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+895653,GSM5859639,895653,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+146033,GSM5859640,146033,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+552313,GSM5859641,552313,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+443444,GSM5859642,443444,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+396723,GSM5859643,396723,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+981664,GSM5859644,981664,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+127791,GSM5859645,127791,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+624777,GSM5859646,624777,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+202535,GSM5859647,202535,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+490805,GSM5859648,490805,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+831848,GSM5859649,831848,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+253531,GSM5859650,253531,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+296841,GSM5859651,296841,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+889721,GSM5859652,889721,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+213913,GSM5859653,213913,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+474874,GSM5859654,474874,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+131961,GSM5859655,131961,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+503034,GSM5859656,503034,breast cancer biopsy,1,0,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+955953,GSM5859657,955953,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+767081,GSM5859658,767081,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+138425,GSM5859659,138425,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+592535,GSM5859660,592535,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+128675,GSM5859661,128675,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+825363,GSM5859662,825363,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+797499,GSM5859663,797499,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+862244,GSM5859664,862244,breast cancer biopsy,1,0,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+760011,GSM5859665,760011,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+738041,GSM5859666,738041,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+960029,GSM5859667,960029,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+335091,GSM5859668,335091,breast cancer biopsy,1,1,1,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,1
+453596,GSM5859669,453596,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+303947,GSM5859670,303947,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+824234,GSM5859671,824234,breast cancer biopsy,1,1,1,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,1
+654956,GSM5859672,654956,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+145513,GSM5859673,145513,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+154293,GSM5859674,154293,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+415039,GSM5859675,415039,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+920479,GSM5859676,920479,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+786753,GSM5859677,786753,breast cancer biopsy,1,0,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+151230,GSM5859678,151230,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+851180,GSM5859679,851180,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+835137,GSM5859680,835137,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+349639,GSM5859681,349639,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+375954,GSM5859682,375954,breast cancer biopsy,1,0,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+413211,GSM5859683,413211,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+273691,GSM5859684,273691,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+268937,GSM5859685,268937,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+795996,GSM5859686,795996,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+397505,GSM5859687,397505,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+666450,GSM5859688,666450,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+388581,GSM5859689,388581,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+625800,GSM5859690,625800,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+109980,GSM5859691,109980,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+771443,GSM5859692,771443,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+799149,GSM5859693,799149,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+204939,GSM5859694,204939,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+402265,GSM5859695,402265,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+981461,GSM5859696,981461,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+555214,GSM5859697,555214,breast cancer biopsy,1,0,1,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,1
+255388,GSM5859698,255388,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+539904,GSM5859699,539904,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,0
+779739,GSM5859700,779739,breast cancer biopsy,1,1,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+284443,GSM5859701,284443,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+490023,GSM5859702,490023,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+962153,GSM5859703,962153,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+946927,GSM5859704,946927,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+629371,GSM5859705,629371,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+162562,GSM5859706,162562,breast cancer biopsy,1,0,1,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,1
+614434,GSM5859707,614434,breast cancer biopsy,1,1,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+767934,GSM5859708,767934,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+629210,GSM5859709,629210,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+944536,GSM5859710,944536,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+202539,GSM5859711,202539,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+227055,GSM5859712,227055,breast cancer biopsy,1,1,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+635862,GSM5859713,635862,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+156163,GSM5859714,156163,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+399478,GSM5859715,399478,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+134526,GSM5859716,134526,breast cancer biopsy,0,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+708387,GSM5859717,708387,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+598835,GSM5859718,598835,breast cancer biopsy,1,0,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+636424,GSM5859719,636424,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+197942,GSM5859720,197942,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+706943,GSM5859721,706943,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+783578,GSM5859722,783578,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+255078,GSM5859723,255078,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+833536,GSM5859724,833536,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+541165,GSM5859725,541165,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+507198,GSM5859726,507198,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+819622,GSM5859727,819622,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+597253,GSM5859728,597253,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+962472,GSM5859729,962472,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+327142,GSM5859730,327142,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+930853,GSM5859731,930853,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+111674,GSM5859732,111674,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+894128,GSM5859733,894128,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+233191,GSM5859734,233191,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+712276,GSM5859735,712276,breast cancer biopsy,0,1,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+597907,GSM5859736,597907,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+203060,GSM5859737,203060,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+235995,GSM5859738,235995,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+153327,GSM5859739,153327,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+625854,GSM5859740,625854,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+391942,GSM5859741,391942,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+104384,GSM5859742,104384,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+460776,GSM5859743,460776,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+605713,GSM5859744,605713,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+192548,GSM5859745,192548,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+179568,GSM5859746,179568,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+491526,GSM5859747,491526,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+789497,GSM5859748,789497,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+689452,GSM5859749,689452,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+378401,GSM5859750,378401,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+549172,GSM5859751,549172,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+845079,GSM5859752,845079,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+913527,GSM5859753,913527,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+264678,GSM5859754,264678,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+814299,GSM5859755,814299,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+581648,GSM5859756,581648,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+706418,GSM5859757,706418,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+299840,GSM5859758,299840,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+496205,GSM5859759,496205,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+887594,GSM5859760,887594,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+246134,GSM5859761,246134,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,0
+237158,GSM5859762,237158,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+829491,GSM5859763,829491,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+266509,GSM5859764,266509,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+815421,GSM5859765,815421,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+383456,GSM5859766,383456,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+489973,GSM5859767,489973,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+632408,GSM5859768,632408,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+174903,GSM5859769,174903,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+600536,GSM5859770,600536,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+840501,GSM5859771,840501,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+765671,GSM5859772,765671,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+590220,GSM5859773,590220,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+451482,GSM5859774,451482,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+551795,GSM5859775,551795,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+227881,GSM5859776,227881,breast cancer biopsy,1,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+729270,GSM5859777,729270,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+228340,GSM5859778,228340,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+982086,GSM5859779,982086,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+527581,GSM5859780,527581,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+494022,GSM5859781,494022,breast cancer biopsy,1,0,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+824350,GSM5859782,824350,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+687288,GSM5859783,687288,breast cancer biopsy,1,0,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+575457,GSM5859784,575457,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+622078,GSM5859785,622078,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+215932,GSM5859786,215932,breast cancer biopsy,1,0,0,Paclitaxel + AMG-386 + Trastuzumab,AMG-386,RPPA.2,GPL28470,0
+462605,GSM5859787,462605,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+408692,GSM5859788,408692,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+820348,GSM5859789,820348,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+484867,GSM5859790,484867,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+159284,GSM5859791,159284,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+323721,GSM5859792,323721,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+179369,GSM5859793,179369,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+580541,GSM5859794,580541,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+169918,GSM5859795,169918,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+342959,GSM5859796,342959,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+306127,GSM5859797,306127,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+418593,GSM5859798,418593,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+343898,GSM5859799,343898,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+196064,GSM5859800,196064,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+616994,GSM5859801,616994,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+721099,GSM5859802,721099,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+847753,GSM5859803,847753,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+405717,GSM5859804,405717,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+728714,GSM5859805,728714,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+478484,GSM5859806,478484,breast cancer biopsy,0,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+142688,GSM5859807,142688,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+349330,GSM5859808,349330,breast cancer biopsy,0,0,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+228192,GSM5859809,228192,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+433144,GSM5859810,433144,breast cancer biopsy,0,0,1,Paclitaxel,Control,RPPA.1,GPL28470,1
+208265,GSM5859811,208265,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+688955,GSM5859812,688955,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+987914,GSM5859813,987914,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+728149,GSM5859814,728149,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+570685,GSM5859815,570685,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+107700,GSM5859816,107700,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+462582,GSM5859817,462582,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+882553,GSM5859818,882553,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+688291,GSM5859819,688291,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+879224,GSM5859820,879224,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+856159,GSM5859821,856159,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.2,GPL28470,0
+329076,GSM5859822,329076,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+695521,GSM5859823,695521,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+223030,GSM5859824,223030,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+987995,GSM5859825,987995,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+504838,GSM5859826,504838,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+355942,GSM5859827,355942,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+250274,GSM5859828,250274,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+311316,GSM5859829,311316,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+698094,GSM5859830,698094,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+999733,GSM5859831,999733,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+653325,GSM5859832,653325,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+328160,GSM5859833,328160,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+604199,GSM5859834,604199,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+455828,GSM5859835,455828,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+963303,GSM5859836,963303,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+174904,GSM5859837,174904,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+423979,GSM5859838,423979,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+198891,GSM5859839,198891,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+646233,GSM5859840,646233,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+395379,GSM5859841,395379,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+752372,GSM5859842,752372,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+903880,GSM5859843,903880,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+831702,GSM5859844,831702,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+144302,GSM5859845,144302,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+790070,GSM5859846,790070,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+437968,GSM5859847,437968,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+957408,GSM5859848,957408,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+845147,GSM5859849,845147,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+607843,GSM5859850,607843,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+157463,GSM5859851,157463,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+866660,GSM5859852,866660,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+741535,GSM5859853,741535,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+924071,GSM5859854,924071,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+125385,GSM5859855,125385,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+494296,GSM5859856,494296,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+703401,GSM5859857,703401,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+473365,GSM5859858,473365,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+477816,GSM5859859,477816,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+166412,GSM5859860,166412,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+155171,GSM5859861,155171,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+301289,GSM5859862,301289,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+478055,GSM5859863,478055,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+701790,GSM5859864,701790,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+375455,GSM5859865,375455,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+517446,GSM5859866,517446,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+139973,GSM5859867,139973,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+495440,GSM5859868,495440,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+522140,GSM5859869,522140,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+122579,GSM5859870,122579,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+570148,GSM5859871,570148,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+572235,GSM5859872,572235,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+618717,GSM5859873,618717,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+766301,GSM5859874,766301,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+199115,GSM5859875,199115,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+422450,GSM5859876,422450,breast cancer biopsy,0,1,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+492612,GSM5859877,492612,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+982505,GSM5859878,982505,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+885590,GSM5859879,885590,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+994987,GSM5859880,994987,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+654064,GSM5859881,654064,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+240957,GSM5859882,240957,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+901705,GSM5859883,901705,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+972307,GSM5859884,972307,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+128051,GSM5859885,128051,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+922872,GSM5859886,922872,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+373346,GSM5859887,373346,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+900959,GSM5859888,900959,breast cancer biopsy,1,1,0,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,0
+103939,GSM5859889,103939,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+146987,GSM5859890,146987,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+823618,GSM5859891,823618,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+724293,GSM5859892,724293,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+834418,GSM5859893,834418,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2 & RPPA.3 (ave),GPL28470,0
+953885,GSM5859894,953885,breast cancer biopsy,1,1,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+384830,GSM5859895,384830,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+420523,GSM5859896,420523,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+689480,GSM5859897,689480,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+342996,GSM5859898,342996,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+749097,GSM5859899,749097,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+988443,GSM5859900,988443,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+938719,GSM5859901,938719,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+531672,GSM5859902,531672,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+607047,GSM5859903,607047,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+183831,GSM5859904,183831,breast cancer biopsy,0,1,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+889225,GSM5859905,889225,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+378885,GSM5859906,378885,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+640043,GSM5859907,640043,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+568953,GSM5859908,568953,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+700549,GSM5859909,700549,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+188511,GSM5859910,188511,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+991818,GSM5859911,991818,breast cancer biopsy,1,1,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+748583,GSM5859912,748583,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+728182,GSM5859913,728182,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+655703,GSM5859914,655703,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+637566,GSM5859915,637566,breast cancer biopsy,0,0,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+353318,GSM5859916,353318,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+755914,GSM5859917,755914,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+652480,GSM5859918,652480,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+263143,GSM5859919,263143,breast cancer biopsy,1,0,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+655795,GSM5859920,655795,breast cancer biopsy,0,1,1,Paclitaxel,Control,RPPA.3,GPL28470,1
+611662,GSM5859921,611662,breast cancer biopsy,1,0,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+417654,GSM5859922,417654,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+575372,GSM5859923,575372,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+129837,GSM5859924,129837,breast cancer biopsy,0,0,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+664658,GSM5859925,664658,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+683173,GSM5859926,683173,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+303685,GSM5859927,303685,breast cancer biopsy,0,1,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+357017,GSM5859928,357017,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+808714,GSM5859929,808714,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+941191,GSM5859930,941191,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+160120,GSM5859931,160120,breast cancer biopsy,0,1,0,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,0
+422454,GSM5859932,422454,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+578975,GSM5859933,578975,breast cancer biopsy,0,0,1,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,1
+650589,GSM5859934,650589,breast cancer biopsy,0,0,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+141782,GSM5859935,141782,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+282644,GSM5859936,282644,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+651145,GSM5859937,651145,breast cancer biopsy,0,1,0,Paclitaxel + MK-2206,MK-2206,RPPA.2,GPL28470,0
+923968,GSM5859938,923968,breast cancer biopsy,0,1,1,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,1
+350331,GSM5859939,350331,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+635632,GSM5859940,635632,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+319324,GSM5859941,319324,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+363669,GSM5859942,363669,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.2,GPL28470,0
+573586,GSM5859943,573586,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+273745,GSM5859944,273745,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+782334,GSM5859945,782334,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+896939,GSM5859946,896939,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+572444,GSM5859947,572444,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+720065,GSM5859948,720065,breast cancer biopsy,1,1,0,Paclitaxel + Trastuzumab,Control,RPPA.1,GPL28470,0
+901807,GSM5859949,901807,breast cancer biopsy,0,0,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+386664,GSM5859950,386664,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+963604,GSM5859951,963604,breast cancer biopsy,0,1,0,Paclitaxel + AMG-386,AMG-386,RPPA.2,GPL28470,0
+300724,GSM5859952,300724,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.3,GPL28470,0
+341238,GSM5859953,341238,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+168044,GSM5859954,168044,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+149654,GSM5859955,149654,breast cancer biopsy,0,1,0,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,0
+733962,GSM5859956,733962,breast cancer biopsy,1,0,1,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,1
+790397,GSM5859957,790397,breast cancer biopsy,1,1,1,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,1
+535415,GSM5859958,535415,breast cancer biopsy,1,0,1,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,1
+677915,GSM5859959,677915,breast cancer biopsy,0,1,0,Paclitaxel,Control,RPPA.1,GPL28470,0
+905264,GSM5859960,905264,breast cancer biopsy,1,0,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+442637,GSM5859961,442637,breast cancer biopsy,1,0,0,Paclitaxel + Trastuzumab,Control,RPPA.1 & RPPA.2 (ave),GPL28470,0
+220925,GSM5859962,220925,breast cancer biopsy,1,0,0,T-DM1 + Pertuzumab,TDM1/P,RPPA.3,GPL28470,0
+960963,GSM5859963,960963,breast cancer biopsy,1,1,0,Paclitaxel + MK-2206 + Trastuzumab,MK-2206,RPPA.2,GPL28470,0
+584561,GSM5859964,584561,breast cancer biopsy,1,0,1,Paclitaxel + Pertuzumab + Trastuzumab,Pertuzumab,RPPA.3,GPL28470,1
+515105,GSM5859965,515105,breast cancer biopsy,1,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0
+152197,GSM5859966,152197,breast cancer biopsy,0,0,1,Paclitaxel + Pembrolizumab,Pembro,RPPA.3,GPL28470,1
+697871,GSM5859967,697871,breast cancer biopsy,0,0,1,Paclitaxel + ABT 888 + Carboplatin,VC,RPPA.1,GPL28470,1
+828199,GSM5859968,828199,breast cancer biopsy,0,1,0,Paclitaxel + Neratinib,N,RPPA.1,GPL28470,0

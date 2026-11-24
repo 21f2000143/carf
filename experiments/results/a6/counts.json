@@ -1,0 +1,39 @@
+{
+  "complete": {
+    "n": 112,
+    "pcr_pos": 31,
+    "missing_hr_or_her2": 3
+  },
+  "rna_only": {
+    "n": 32,
+    "pcr_pos": 5,
+    "missing_hr_or_her2": 0
+  },
+  "mri_only": {
+    "n": 55,
+    "pcr_pos": 18,
+    "missing_hr_or_her2": 2
+  },
+  "clinical_only": {
+    "n": 16,
+    "pcr_pos": 4,
+    "missing_hr_or_her2": 0
+  },
+  "excluded": [
+    {
+      "group": "complete",
+      "exclusion_reason": "missing_pcr",
+      "n": 4
+    },
+    {
+      "group": "mri_only",
+      "exclusion_reason": "missing_pcr",
+      "n": 1
+    },
+    {
+      "group": "rna_only",
+      "exclusion_reason": "missing_pcr",
+      "n": 1
+    }
+  ]
+}

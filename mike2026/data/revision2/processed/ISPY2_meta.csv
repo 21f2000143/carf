@@ -1,0 +1,979 @@
+patient_id,image_id,pcr,age,hr,her2,subtype,arm,protein_available
+756412,ISPY2-756412,0,46.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+111881,ISPY2-111881,1,37.0,1,1,HER2+,Paclitaxel + Neratinib,True
+451816,ISPY2-451816,0,43.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,False
+243836,ISPY2-243836,1,31.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+402265,ISPY2-402265,0,56.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+611662,ISPY2-611662,0,55.0,0,1,HER2+,Paclitaxel + Neratinib,True
+139137,ISPY2-139137,0,54.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+685753,ISPY2-685753,0,46.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+627981,ISPY2-627981,1,64.0,0,0,TNBC,Paclitaxel,False
+108939,ISPY2-108939,1,34.0,1,1,HER2+,Paclitaxel + Neratinib,True
+629210,ISPY2-629210,0,40.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+809037,ISPY2-809037,0,52.0,1,0,HR+/HER2-,Paclitaxel,True
+107700,ACRIN-6698-107700,0,68.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+373672,ISPY2-373672,0,67.0,0,0,TNBC,Paclitaxel,True
+615873,ISPY2-615873,1,48.0,0,0,TNBC,Paclitaxel,True
+607047,ISPY2-607047,1,41.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+155171,ISPY2-155171,0,50.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+815421,ISPY2-815421,0,68.0,1,1,HER2+,Paclitaxel + Neratinib,True
+605713,ISPY2-605713,0,38.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+246134,ISPY2-246134,0,68.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+373346,ACRIN-6698-373346,0,59.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+349225,ISPY2-349225,0,40.0,0,0,TNBC,Paclitaxel,True
+208265,ISPY2-208265,1,41.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+395076,ISPY2-395076,1,53.0,0,0,TNBC,Paclitaxel,True
+637752,ISPY2-637752,1,48.0,0,0,TNBC,Paclitaxel + AMG 386,True
+331192,ISPY2-331192,1,42.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+327133,ISPY2-327133,0,38.0,0,0,TNBC,Paclitaxel,True
+541165,ISPY2-541165,0,49.0,0,0,TNBC,Paclitaxel + Neratinib,True
+802778,ISPY2-802778,0,64.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+794428,ISPY2-794428,0,56.0,0,0,TNBC,Paclitaxel,True
+625800,ISPY2-625800,0,50.0,1,1,HER2+,Paclitaxel + Neratinib,True
+422450,ISPY2-422450,1,51.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+613188,ISPY2-613188,0,53.0,0,0,TNBC,Paclitaxel + AMG 386,True
+159284,ISPY2-159284,0,35.0,0,0,TNBC,Paclitaxel,True
+641977,ACRIN-6698-641977,0,57.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+326433,ACRIN-6698-326433,1,39.0,0,0,TNBC,Paclitaxel + AMG 386,True
+539876,ISPY2-539876,0,59.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+109623,ISPY2-109623,0,44.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+153327,ISPY2-153327,1,56.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+622315,ISPY2-622315,0,48.0,0,0,TNBC,Paclitaxel + AMG 386,True
+597873,ISPY2-597873,0,36.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+111646,ISPY2-111646,0,66.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+574091,ISPY2-574091,1,57.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+515284,ISPY2-515284,0,36.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+366120,ISPY2-366120,0,46.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+769972,ISPY2-769972,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+494296,ISPY2-494296,0,50.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+918979,ISPY2-918979,0,60.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+196024,ISPY2-196024,0,67.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+221375,ISPY2-221375,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+845783,ACRIN-6698-845783,1,34.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+483910,ISPY2-483910,0,50.0,0,0,TNBC,Paclitaxel + Pembrolizumab,False
+767081,ISPY2-767081,1,61.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+425173,ISPY2-425173,1,55.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+464547,ISPY2-464547,1,41.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+847272,ISPY2-847272,0,51.0,0,0,TNBC,Paclitaxel,True
+255577,ISPY2-255577,0,50.0,0,0,TNBC,Paclitaxel,False
+884011,ACRIN-6698-884011,0,66.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+213328,ISPY2-213328,1,32.0,0,0,TNBC,Paclitaxel,True
+949444,ACRIN-6698-949444,0,34.0,0,0,TNBC,Paclitaxel + AMG 386,True
+797639,ISPY2-797639,0,57.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+264305,ACRIN-6698-264305,1,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+277888,ACRIN-6698-277888,1,48.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+753109,ACRIN-6698-753109,1,65.0,0,0,TNBC,Paclitaxel + MK-2206,True
+220471,ACRIN-6698-220471,0,50.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+494946,ISPY2-494946,1,51.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+326202,ISPY2-326202,0,45.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+266840,ACRIN-6698-266840,0,37.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+378885,ACRIN-6698-378885,0,36.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+873686,ISPY2-873686,0,60.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+916586,ISPY2-916586,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+786480,ISPY2-786480,0,41.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+456506,ISPY2-456506,0,47.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+452703,ISPY2-452703,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+220925,ACRIN-6698-220925,0,37.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+120001,ISPY2-120001,0,53.0,0,0,TNBC,Paclitaxel + Neratinib,True
+131595,ISPY2-131595,0,43.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+167271,ISPY2-167271,0,33.0,1,1,HER2+,T-DM1 + Pertuzumab,False
+166412,ISPY2-166412,0,37.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+884266,ISPY2-884266,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+604199,ISPY2-604199,0,60.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+947398,ACRIN-6698-947398,1,44.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+689480,ACRIN-6698-689480,0,54.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+146033,ISPY2-146033,1,53.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+564701,ACRIN-6698-564701,0,31.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+498024,ISPY2-498024,0,57.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+641697,ACRIN-6698-641697,0,26.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+672734,ISPY2-672734,0,39.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+922872,ISPY2-922872,0,65.0,1,0,HR+/HER2-,Paclitaxel,True
+522140,ACRIN-6698-522140,0,55.0,1,0,HR+/HER2-,Paclitaxel,True
+413211,ACRIN-6698-413211,0,66.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+279902,ISPY2-279902,1,42.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+551795,ISPY2-551795,1,40.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+306401,ACRIN-6698-306401,1,58.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,False
+571995,ACRIN-6698-571995,0,57.0,0,0,TNBC,Paclitaxel + AMG 386,True
+506623,ACRIN-6698-506623,0,69.0,0,0,TNBC,Paclitaxel + MK-2206,True
+498985,ISPY2-498985,0,25.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+240035,ISPY2-240035,0,68.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+172168,ISPY2-172168,0,40.0,0,0,TNBC,Paclitaxel,True
+104384,ISPY2-104384,0,42.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+828199,ISPY2-828199,0,43.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+613961,ISPY2-613961,1,45.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+376676,ACRIN-6698-376676,0,48.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+436371,ISPY2-436371,0,60.0,1,0,HR+/HER2-,Paclitaxel,True
+342142,ISPY2-342142,1,54.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+554577,ISPY2-554577,0,52.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+570685,ISPY2-570685,0,70.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+986734,ISPY2-986734,0,33.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+999264,ISPY2-999264,1,44.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+786003,ISPY2-786003,1,57.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+311455,ISPY2-311455,0,58.0,1,0,HR+/HER2-,Paclitaxel,True
+663144,ACRIN-6698-663144,0,48.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+960029,ACRIN-6698-960029,0,43.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+988665,ISPY2-988665,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+802105,ISPY2-802105,0,44.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+494022,ISPY2-494022,0,58.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+623569,ISPY2-623569,1,40.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+618717,ACRIN-6698-618717,0,29.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+493775,ISPY2-493775,1,41.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+355292,ISPY2-355292,0,36.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+708387,ISPY2-708387,1,29.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+257735,ISPY2-257735,0,48.0,0,0,TNBC,Paclitaxel,True
+625854,ISPY2-625854,1,51.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+229824,ISPY2-229824,0,60.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+152090,ACRIN-6698-152090,1,30.0,1,0,HR+/HER2-,Paclitaxel,True
+735673,ISPY2-735673,0,44.0,1,0,HR+/HER2-,Paclitaxel,True
+460642,ACRIN-6698-460642,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+515281,ISPY2-515281,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+414844,ACRIN-6698-414844,0,51.0,1,0,HR+/HER2-,Paclitaxel,True
+851180,ISPY2-851180,0,50.0,1,1,HER2+,Paclitaxel + Neratinib,True
+848003,ACRIN-6698-848003,0,57.0,0,0,TNBC,Paclitaxel + AMG 386,True
+131961,ACRIN-6698-131961,1,44.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+795996,ACRIN-6698-795996,1,47.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+683457,ISPY2-683457,0,50.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+767934,ISPY2-767934,1,68.0,0,0,TNBC,Paclitaxel,True
+587388,ISPY2-587388,0,52.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+105513,ISPY2-105513,1,48.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+277848,ISPY2-277848,0,66.0,1,1,HER2+,Paclitaxel + Neratinib,False
+543795,ISPY2-543795,0,47.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+122579,ISPY2-122579,0,57.0,1,0,HR+/HER2-,Paclitaxel,True
+518000,ISPY2-518000,0,34.0,0,0,TNBC,Paclitaxel + MK-2206,True
+501303,ISPY2-501303,1,47.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+139973,ACRIN-6698-139973,0,41.0,1,0,HR+/HER2-,Paclitaxel,True
+778527,ISPY2-778527,1,44.0,0,0,TNBC,Paclitaxel + MK-2206,True
+345907,ACRIN-6698-345907,0,61.0,0,0,TNBC,Paclitaxel + MK-2206,True
+963604,ACRIN-6698-963604,0,51.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+571276,ISPY2-571276,0,48.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+861745,ACRIN-6698-861745,0,31.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+517446,ISPY2-517446,0,63.0,1,0,HR+/HER2-,Paclitaxel,True
+528479,ISPY2-528479,0,63.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+431061,ISPY2-431061,0,57.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+168044,ISPY2-168044,0,64.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+227832,ISPY2-227832,0,53.0,1,1,HER2+,Paclitaxel + Neratinib,False
+860901,ACRIN-6698-860901,1,49.0,0,0,TNBC,Paclitaxel + AMG 386,True
+724384,ACRIN-6698-724384,0,43.0,1,0,HR+/HER2-,Paclitaxel,True
+621179,ISPY2-621179,0,53.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+568953,ISPY2-568953,0,59.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+779739,ACRIN-6698-779739,1,47.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+863161,ACRIN-6698-863161,1,55.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+247641,ISPY2-247641,0,63.0,0,0,TNBC,Paclitaxel,True
+495440,ISPY2-495440,0,49.0,1,0,HR+/HER2-,Paclitaxel,True
+679787,ISPY2-679787,0,33.0,0,0,TNBC,Paclitaxel,True
+910188,ISPY2-910188,0,64.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+141782,ISPY2-141782,0,54.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+401215,ACRIN-6698-401215,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+981664,ISPY2-981664,1,50.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+683173,ISPY2-683173,1,51.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+102011,ISPY2-102011,1,32.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+703401,ISPY2-703401,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+664658,ISPY2-664658,1,39.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+345460,ISPY2-345460,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+999733,ISPY2-999733,0,47.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+689188,ISPY2-689188,1,72.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+285339,ACRIN-6698-285339,1,56.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+572793,ISPY2-572793,0,49.0,0,0,TNBC,Paclitaxel + MK-2206,True
+164468,ISPY2-164468,0,45.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+473365,ISPY2-473365,0,63.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+843554,ACRIN-6698-843554,0,31.0,0,0,TNBC,Paclitaxel,True
+467622,ISPY2-467622,0,42.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+483667,ISPY2-483667,0,46.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+798604,ISPY2-798604,1,55.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+890372,ACRIN-6698-890372,0,39.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+208650,ACRIN-6698-208650,0,39.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+532183,ISPY2-532183,0,47.0,0,0,TNBC,Paclitaxel,True
+432114,ACRIN-6698-432114,1,50.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+804233,ISPY2-804233,1,46.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+474874,ACRIN-6698-474874,1,41.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+651145,ACRIN-6698-651145,0,63.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+614434,ISPY2-614434,1,56.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+521860,ISPY2-521860,0,35.0,0,0,TNBC,Paclitaxel + AMG 386,True
+215932,ISPY2-215932,0,43.0,0,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+793155,ACRIN-6698-793155,0,58.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,False
+484894,ISPY2-484894,0,31.0,1,0,HR+/HER2-,Paclitaxel,True
+242370,ISPY2-242370,1,38.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+273691,ISPY2-273691,1,46.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+618240,ISPY2-618240,0,35.0,0,0,TNBC,Paclitaxel + AMG 386,True
+490805,ACRIN-6698-490805,1,42.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+250274,ISPY2-250274,0,43.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+239910,ACRIN-6698-239910,0,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+356399,ISPY2-356399,0,30.0,1,0,HR+/HER2-,Paclitaxel,True
+972307,ISPY2-972307,0,47.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+540539,ISPY2-540539,1,35.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+294265,ISPY2-294265,1,52.0,0,0,TNBC,Paclitaxel + MK-2206,True
+891645,ISPY2-891645,0,37.0,0,1,HER2+,Paclitaxel + Neratinib,True
+527581,ISPY2-527581,0,35.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+371528,ISPY2-371528,0,70.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+410083,ISPY2-410083,1,55.0,0,1,HER2+,T-DM1 + Pertuzumab,False
+199960,ISPY2-199960,0,33.0,0,0,TNBC,Paclitaxel + AMG 386,False
+227055,ACRIN-6698-227055,0,40.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+830486,ISPY2-830486,0,36.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+786753,ACRIN-6698-786753,0,59.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+253531,ACRIN-6698-253531,1,59.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+510543,ISPY2-510543,0,62.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+591180,ISPY2-591180,0,57.0,0,0,TNBC,Paclitaxel + Neratinib,True
+766301,ISPY2-766301,0,49.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+590299,ISPY2-590299,0,44.0,0,0,TNBC,Paclitaxel + AMG 386,True
+580541,ACRIN-6698-580541,0,61.0,1,0,HR+/HER2-,Paclitaxel,True
+690410,ISPY2-690410,0,69.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+654064,ACRIN-6698-654064,0,34.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+614044,ISPY2-614044,0,52.0,0,0,TNBC,Paclitaxel,True
+791321,ISPY2-791321,0,31.0,0,0,TNBC,Paclitaxel + MK-2206,False
+284355,ISPY2-284355,0,41.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+422454,ISPY2-422454,0,45.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+213672,ISPY2-213672,0,39.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+550421,ISPY2-550421,0,49.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+929391,ACRIN-6698-929391,0,65.0,0,0,TNBC,Paclitaxel,True
+477994,ISPY2-477994,1,54.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+119928,ISPY2-119928,0,39.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+913527,ACRIN-6698-913527,0,46.0,0,0,TNBC,Paclitaxel,True
+259899,ISPY2-259899,0,41.0,0,0,TNBC,Paclitaxel,False
+676630,ISPY2-676630,1,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+894673,ACRIN-6698-894673,0,59.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,False
+622688,ISPY2-622688,1,29.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+870077,ACRIN-6698-870077,0,60.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+866660,ACRIN-6698-866660,0,38.0,1,0,HR+/HER2-,Paclitaxel,True
+177795,ISPY2-177795,1,58.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+685795,ACRIN-6698-685795,0,64.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+218503,ACRIN-6698-218503,0,52.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+802308,ACRIN-6698-802308,0,52.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+741535,ISPY2-741535,0,33.0,1,0,HR+/HER2-,Paclitaxel,True
+550157,ISPY2-550157,1,63.0,0,0,TNBC,Paclitaxel,True
+362150,ACRIN-6698-362150,0,44.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+317402,ACRIN-6698-317402,0,53.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+188700,ACRIN-6698-188700,1,58.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+547892,ACRIN-6698-547892,0,48.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+738041,ACRIN-6698-738041,1,37.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+658541,ISPY2-658541,0,64.0,1,0,HR+/HER2-,Paclitaxel,True
+900959,ACRIN-6698-900959,0,63.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+130892,ISPY2-130892,1,50.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+893874,ISPY2-893874,1,37.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+618860,ACRIN-6698-618860,0,48.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+628788,ACRIN-6698-628788,0,32.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+504838,ISPY2-504838,0,69.0,0,0,TNBC,Paclitaxel,True
+794128,ACRIN-6698-794128,0,44.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+882553,ACRIN-6698-882553,0,47.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+732137,ISPY2-732137,0,54.0,0,0,TNBC,Paclitaxel + MK-2206,True
+332655,ISPY2-332655,1,56.0,0,0,TNBC,Paclitaxel + MK-2206,True
+845147,ISPY2-845147,0,46.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+122287,ISPY2-122287,1,54.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+535415,ISPY2-535415,1,56.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+851223,ISPY2-851223,0,36.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+391942,ISPY2-391942,1,54.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+342959,ACRIN-6698-342959,1,60.0,0,0,TNBC,Paclitaxel + MK-2206,True
+518576,ISPY2-518576,1,50.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+971492,ACRIN-6698-971492,0,32.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+269899,ACRIN-6698-269899,1,58.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+894491,ISPY2-894491,0,49.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,False
+489194,ISPY2-489194,1,33.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+300724,ISPY2-300724,0,59.0,1,0,HR+/HER2-,Paclitaxel,True
+674897,ISPY2-674897,0,50.0,0,0,TNBC,Paclitaxel,False
+729732,ISPY2-729732,0,36.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+635632,ACRIN-6698-635632,1,46.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+509012,ISPY2-509012,1,52.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+991818,ACRIN-6698-991818,1,46.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+290413,ISPY2-290413,0,59.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+319324,ISPY2-319324,0,48.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+157270,ISPY2-157270,0,43.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+748611,ACRIN-6698-748611,1,59.0,1,0,HR+/HER2-,Paclitaxel,True
+689076,ACRIN-6698-689076,0,32.0,1,0,HR+/HER2-,Paclitaxel,True
+587604,ACRIN-6698-587604,0,45.0,0,0,TNBC,Paclitaxel,True
+943879,ISPY2-943879,1,40.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+601489,ISPY2-601489,0,54.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+917762,ISPY2-917762,0,35.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+516834,ACRIN-6698-516834,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+567201,ISPY2-567201,1,47.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+607843,ACRIN-6698-607843,0,57.0,1,0,HR+/HER2-,Paclitaxel,True
+318407,ISPY2-318407,0,58.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+233962,ISPY2-233962,1,33.0,0,0,TNBC,Paclitaxel + Neratinib,True
+473505,ISPY2-473505,0,56.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+689452,ACRIN-6698-689452,0,63.0,0,0,TNBC,Paclitaxel,True
+935460,ISPY2-935460,0,65.0,0,0,TNBC,Paclitaxel,True
+712917,ISPY2-712917,1,45.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+609151,ACRIN-6698-609151,1,40.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+552313,ISPY2-552313,1,61.0,0,1,HER2+,Paclitaxel + Neratinib,True
+181442,ISPY2-181442,0,63.0,0,0,TNBC,Paclitaxel,True
+145777,ACRIN-6698-145777,0,30.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+254060,ISPY2-254060,1,38.0,0,0,TNBC,Paclitaxel + AMG 386,True
+411806,ISPY2-411806,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+491779,ISPY2-491779,1,70.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+575457,ISPY2-575457,1,46.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+180663,ISPY2-180663,0,39.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+896939,ISPY2-896939,0,63.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+415039,ISPY2-415039,0,50.0,1,1,HER2+,Paclitaxel + Neratinib,True
+138425,ISPY2-138425,1,62.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+783771,ISPY2-783771,0,31.0,1,0,HR+/HER2-,Paclitaxel,True
+293142,ACRIN-6698-293142,0,56.0,1,0,HR+/HER2-,Paclitaxel,True
+706639,ACRIN-6698-706639,0,50.0,0,0,TNBC,Paclitaxel,True
+930853,ISPY2-930853,1,45.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+303685,ISPY2-303685,1,71.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+930172,ISPY2-930172,0,44.0,1,1,HER2+,Paclitaxel + Neratinib,True
+289107,ISPY2-289107,1,50.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+563681,ACRIN-6698-563681,0,23.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+848371,ISPY2-848371,1,32.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+960490,ISPY2-960490,1,36.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+810965,ISPY2-810965,1,66.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+409288,ACRIN-6698-409288,0,77.0,0,0,TNBC,Paclitaxel,True
+208303,ISPY2-208303,1,64.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+282777,ISPY2-282777,0,48.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+774840,ACRIN-6698-774840,1,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+301665,ACRIN-6698-301665,0,52.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,False
+930903,ISPY2-930903,0,34.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+489973,ISPY2-489973,0,39.0,0,0,TNBC,Paclitaxel + AMG 386,True
+714205,ISPY2-714205,1,68.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+635862,ISPY2-635862,0,37.0,0,0,TNBC,Paclitaxel + AMG 386,True
+783427,ISPY2-783427,1,34.0,1,0,HR+/HER2-,Paclitaxel,True
+519738,ISPY2-519738,1,58.0,0,1,HER2+,Paclitaxel + Neratinib,True
+831848,ACRIN-6698-831848,1,38.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+323721,ACRIN-6698-323721,0,65.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+275626,ACRIN-6698-275626,1,42.0,0,0,TNBC,Paclitaxel + AMG 386,True
+296123,ACRIN-6698-296123,1,62.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+237158,ACRIN-6698-237158,1,56.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+906795,ISPY2-906795,0,29.0,1,1,HER2+,Paclitaxel + Trastuzumab,False
+212307,ISPY2-212307,0,34.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+229328,ISPY2-229328,0,39.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+333145,ISPY2-333145,1,49.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+912836,ISPY2-912836,0,57.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+327917,ISPY2-327917,0,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+887594,ACRIN-6698-887594,1,39.0,0,0,TNBC,Paclitaxel + MK-2206,True
+661730,ACRIN-6698-661730,1,39.0,0,0,TNBC,Paclitaxel + AMG 386,True
+572016,ISPY2-572016,1,42.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+156163,ACRIN-6698-156163,0,47.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+202535,ACRIN-6698-202535,0,32.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+478055,ISPY2-478055,0,31.0,1,0,HR+/HER2-,Paclitaxel,True
+347516,ISPY2-347516,0,39.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+399478,ACRIN-6698-399478,1,54.0,0,0,TNBC,Paclitaxel + AMG 386,True
+418593,ISPY2-418593,0,32.0,1,0,HR+/HER2-,Paclitaxel,True
+395249,ISPY2-395249,0,68.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+369040,ISPY2-369040,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+759418,ISPY2-759418,0,42.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+200222,ISPY2-200222,0,70.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+651401,ISPY2-651401,0,37.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+924812,ISPY2-924812,0,60.0,0,0,TNBC,Paclitaxel + AMG 386,True
+555214,ISPY2-555214,1,49.0,0,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+296841,ACRIN-6698-296841,1,65.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+604380,ISPY2-604380,1,52.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+683896,ACRIN-6698-683896,0,61.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+356431,ACRIN-6698-356431,1,48.0,0,1,HER2+,T-DM1 + Pertuzumab,False
+879224,ACRIN-6698-879224,0,33.0,0,0,TNBC,Paclitaxel,True
+752469,ISPY2-752469,0,55.0,0,0,TNBC,Paclitaxel,True
+116603,ACRIN-6698-116603,0,39.0,0,0,TNBC,Paclitaxel,True
+664111,ACRIN-6698-664111,1,49.0,0,0,TNBC,Paclitaxel + MK-2206,True
+973837,ACRIN-6698-973837,0,47.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+760901,ACRIN-6698-760901,1,44.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+165925,ACRIN-6698-165925,0,50.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+313243,ISPY2-313243,1,36.0,1,0,HR+/HER2-,Paclitaxel,True
+701790,ISPY2-701790,0,65.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+375455,ISPY2-375455,0,56.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+899381,ISPY2-899381,1,45.0,1,0,HR+/HER2-,Paclitaxel,True
+430441,ACRIN-6698-430441,0,30.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+329941,ISPY2-329941,1,47.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+820348,ISPY2-820348,0,33.0,1,0,HR+/HER2-,Paclitaxel,True
+748583,ACRIN-6698-748583,0,67.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+218249,ISPY2-218249,0,59.0,1,0,HR+/HER2-,Paclitaxel,True
+655703,ISPY2-655703,0,64.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+201831,ISPY2-201831,1,44.0,0,0,TNBC,Paclitaxel + AMG 386,True
+938719,ACRIN-6698-938719,0,57.0,1,0,HR+/HER2-,Paclitaxel,True
+728287,ISPY2-728287,1,66.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+687733,ISPY2-687733,0,43.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+646233,ISPY2-646233,0,58.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+831702,ISPY2-831702,0,42.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+275034,ACRIN-6698-275034,1,27.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+219545,ACRIN-6698-219545,0,56.0,0,0,TNBC,Paclitaxel,True
+367682,ISPY2-367682,0,55.0,0,0,TNBC,Paclitaxel,True
+982086,ACRIN-6698-982086,1,56.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+102212,ACRIN-6698-102212,0,26.0,0,0,TNBC,Paclitaxel + MK-2206,False
+616994,ISPY2-616994,0,43.0,1,0,HR+/HER2-,Paclitaxel,True
+108969,ACRIN-6698-108969,1,64.0,0,1,HER2+,Paclitaxel + Neratinib,True
+721099,ACRIN-6698-721099,0,47.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+397505,ACRIN-6698-397505,1,41.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+268937,ISPY2-268937,1,50.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+109874,ISPY2-109874,1,43.0,0,0,TNBC,Paclitaxel + AMG 386,True
+473468,ISPY2-473468,0,54.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+950742,ACRIN-6698-950742,0,40.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+896852,ACRIN-6698-896852,0,41.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+535569,ISPY2-535569,0,50.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+965265,ISPY2-965265,0,48.0,0,0,TNBC,Paclitaxel + AMG 386,True
+153880,ISPY2-153880,0,39.0,1,1,HER2+,Paclitaxel + Trastuzumab,False
+992609,ACRIN-6698-992609,1,54.0,0,0,TNBC,Paclitaxel + AMG 386,True
+653927,ACRIN-6698-653927,1,38.0,0,0,TNBC,Paclitaxel,True
+676365,ISPY2-676365,0,31.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+458196,ISPY2-458196,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+423979,ISPY2-423979,0,54.0,1,0,HR+/HER2-,Paclitaxel,True
+318293,ISPY2-318293,0,47.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,False
+150547,ACRIN-6698-150547,0,51.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+111344,ISPY2-111344,0,55.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+849605,ISPY2-849605,0,33.0,0,0,TNBC,Paclitaxel + Neratinib,True
+797499,ISPY2-797499,1,52.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+639663,ISPY2-639663,0,30.0,0,0,TNBC,Paclitaxel + MK-2206,True
+768214,ISPY2-768214,0,51.0,0,0,TNBC,Paclitaxel + AMG 386,True
+294739,ACRIN-6698-294739,0,42.0,1,0,HR+/HER2-,Paclitaxel,True
+691753,ACRIN-6698-691753,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+539904,ISPY2-539904,0,45.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+453596,ISPY2-453596,1,57.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+997702,ISPY2-997702,1,31.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+118307,ACRIN-6698-118307,0,44.0,0,0,TNBC,Paclitaxel + AMG 386,True
+706943,ISPY2-706943,0,52.0,0,1,HER2+,Paclitaxel + Neratinib,True
+591079,ISPY2-591079,1,43.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+825363,ISPY2-825363,1,29.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+955035,ACRIN-6698-955035,0,46.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+726091,ISPY2-726091,1,43.0,0,0,TNBC,Paclitaxel + Neratinib,True
+179568,ACRIN-6698-179568,0,52.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+280375,ACRIN-6698-280375,0,57.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+668752,ISPY2-668752,0,58.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+568331,ISPY2-568331,0,51.0,0,0,TNBC,Paclitaxel + AMG 386,True
+924895,ISPY2-924895,0,39.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+125418,ISPY2-125418,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+348009,ISPY2-348009,0,37.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+719713,ISPY2-719713,0,38.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+160120,ISPY2-160120,0,55.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+596079,ISPY2-596079,1,65.0,0,1,HER2+,Paclitaxel + Trastuzumab,False
+706169,ISPY2-706169,0,70.0,0,0,TNBC,Paclitaxel,True
+920479,ISPY2-920479,0,45.0,0,1,HER2+,Paclitaxel + Neratinib,True
+789497,ISPY2-789497,0,54.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+282644,ISPY2-282644,0,62.0,1,1,HER2+,Paclitaxel + Neratinib,True
+484867,ISPY2-484867,0,51.0,1,1,HER2+,Paclitaxel + Neratinib,True
+564234,ISPY2-564234,1,33.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+342996,ISPY2-342996,0,42.0,1,0,HR+/HER2-,Paclitaxel,True
+760011,ACRIN-6698-760011,1,49.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+139771,ISPY2-139771,1,55.0,0,0,TNBC,Paclitaxel + Neratinib,True
+221686,ACRIN-6698-221686,1,47.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+355942,ACRIN-6698-355942,0,52.0,1,0,HR+/HER2-,Paclitaxel,True
+104268,ACRIN-6698-104268,0,50.0,0,0,TNBC,Paclitaxel,True
+116165,ISPY2-116165,0,55.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+420523,ISPY2-420523,0,39.0,1,1,HER2+,Paclitaxel + Neratinib,True
+654956,ISPY2-654956,0,46.0,0,1,HER2+,Paclitaxel + Neratinib,True
+145513,ISPY2-145513,0,32.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+780272,ISPY2-780272,0,54.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+419590,ISPY2-419590,0,63.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+800447,ACRIN-6698-800447,1,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+924868,ISPY2-924868,1,56.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+335536,ACRIN-6698-335536,0,67.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+957408,ISPY2-957408,0,29.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+125130,ISPY2-125130,1,48.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+520258,ISPY2-520258,0,37.0,1,0,HR+/HER2-,Paclitaxel,True
+876511,ISPY2-876511,0,39.0,0,0,TNBC,Paclitaxel + Neratinib,True
+872188,ISPY2-872188,1,60.0,0,1,HER2+,Paclitaxel + Neratinib,True
+388581,ISPY2-388581,1,48.0,1,1,HER2+,Paclitaxel + Neratinib,True
+402384,ISPY2-402384,0,59.0,0,0,TNBC,Paclitaxel + MK-2206,True
+833536,ISPY2-833536,1,50.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+896621,ISPY2-896621,0,48.0,1,0,HR+/HER2-,Paclitaxel,True
+877463,ISPY2-877463,0,45.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+227881,ISPY2-227881,1,49.0,1,1,HER2+,Paclitaxel + Neratinib,True
+846156,ISPY2-846156,0,44.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+683374,ISPY2-683374,0,58.0,1,1,HER2+,Paclitaxel + Neratinib,True
+301968,ISPY2-301968,0,45.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+771813,ISPY2-771813,0,49.0,0,0,TNBC,Paclitaxel,True
+567907,ISPY2-567907,0,52.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+225836,ISPY2-225836,0,70.0,0,0,TNBC,Paclitaxel + Neratinib,False
+983841,ISPY2-983841,1,52.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+181819,ISPY2-181819,1,32.0,1,0,HR+/HER2-,Paclitaxel,False
+209397,ISPY2-209397,0,45.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+412772,ACRIN-6698-412772,0,62.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+460776,ISPY2-460776,1,61.0,1,0,HR+/HER2-,Paclitaxel,True
+840501,ISPY2-840501,1,33.0,0,0,TNBC,Paclitaxel + AMG 386,True
+932200,ISPY2-932200,0,24.0,1,0,HR+/HER2-,Paclitaxel,True
+356684,ISPY2-356684,0,51.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+856159,ACRIN-6698-856159,0,46.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+299840,ISPY2-299840,0,36.0,0,0,TNBC,Paclitaxel,True
+267306,ISPY2-267306,1,56.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+466267,ISPY2-466267,1,51.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+934906,ISPY2-934906,0,32.0,0,0,TNBC,Paclitaxel,True
+129837,ISPY2-129837,0,67.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+862244,ISPY2-862244,0,60.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+455828,ISPY2-455828,1,50.0,1,0,HR+/HER2-,Paclitaxel,True
+239061,ISPY2-239061,0,70.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+974618,ISPY2-974618,1,67.0,0,0,TNBC,Paclitaxel + AMG 386,True
+815493,ISPY2-815493,1,37.0,0,0,TNBC,Paclitaxel + Pembrolizumab,False
+797427,ISPY2-797427,0,52.0,1,1,HER2+,Paclitaxel + Trastuzumab,False
+197942,ISPY2-197942,0,34.0,0,0,TNBC,Paclitaxel,True
+254273,ISPY2-254273,0,51.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+111038,ISPY2-111038,0,28.0,0,0,TNBC,Paclitaxel + AMG 386,True
+690089,ACRIN-6698-690089,0,43.0,0,0,TNBC,Paclitaxel + AMG 386,True
+597253,ISPY2-597253,0,59.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+491526,ISPY2-491526,0,71.0,1,0,HR+/HER2-,Paclitaxel,True
+598835,ACRIN-6698-598835,0,41.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+103693,ISPY2-103693,0,59.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+839274,ACRIN-6698-839274,0,68.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+136536,ISPY2-136536,1,42.0,0,0,TNBC,Paclitaxel,True
+157463,ISPY2-157463,0,44.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+570148,ISPY2-570148,0,44.0,1,1,HER2+,Paclitaxel + Neratinib,True
+882538,ISPY2-882538,1,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+151230,ISPY2-151230,0,45.0,1,1,HER2+,Paclitaxel + Neratinib,True
+380972,ISPY2-380972,0,28.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+666450,ISPY2-666450,0,45.0,1,1,HER2+,Paclitaxel + Neratinib,True
+953885,ISPY2-953885,0,42.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+439489,ISPY2-439489,0,41.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+570380,ISPY2-570380,0,44.0,0,0,TNBC,Paclitaxel + Neratinib,True
+133650,ISPY2-133650,0,54.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+502486,ISPY2-502486,0,28.0,0,0,TNBC,Paclitaxel,True
+987914,ACRIN-6698-987914,0,57.0,0,0,TNBC,Paclitaxel,True
+437162,ISPY2-437162,0,45.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+255388,ACRIN-6698-255388,1,57.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+377460,ISPY2-377460,1,53.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,False
+127675,ISPY2-127675,0,59.0,0,0,TNBC,Paclitaxel + Neratinib,True
+790722,ISPY2-790722,0,64.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+709559,ISPY2-709559,0,48.0,1,0,HR+/HER2-,Paclitaxel,True
+284443,ACRIN-6698-284443,0,46.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+923968,ISPY2-923968,1,40.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+477816,ISPY2-477816,0,39.0,1,0,HR+/HER2-,Paclitaxel,True
+298101,ACRIN-6698-298101,0,71.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,False
+151980,ISPY2-151980,1,46.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+115987,ACRIN-6698-115987,0,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+804979,ACRIN-6698-804979,0,47.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+632408,ISPY2-632408,0,65.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+105286,ISPY2-105286,0,65.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+765773,ISPY2-765773,1,49.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+803514,ISPY2-803514,0,55.0,1,0,HR+/HER2-,Paclitaxel,True
+202956,ISPY2-202956,1,49.0,0,0,TNBC,Paclitaxel + Neratinib,True
+144302,ACRIN-6698-144302,0,52.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+362993,ISPY2-362993,0,35.0,0,0,TNBC,Paclitaxel,False
+809649,ISPY2-809649,1,44.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+552549,ISPY2-552549,0,57.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+220664,ISPY2-220664,1,47.0,0,0,TNBC,Paclitaxel + Neratinib,True
+941191,ISPY2-941191,0,52.0,1,1,HER2+,Paclitaxel + Neratinib,True
+411950,ISPY2-411950,0,61.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+114087,ISPY2-114087,0,46.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+240432,ISPY2-240432,0,48.0,1,0,HR+/HER2-,Paclitaxel,True
+414286,ISPY2-414286,0,62.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+301289,ISPY2-301289,0,42.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+462605,ISPY2-462605,1,46.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+697871,ISPY2-697871,1,39.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+442981,ISPY2-442981,1,35.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+435279,ACRIN-6698-435279,0,47.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+204939,ISPY2-204939,1,49.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+496205,ISPY2-496205,1,68.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+688955,ACRIN-6698-688955,0,40.0,1,0,HR+/HER2-,Paclitaxel,True
+700549,ACRIN-6698-700549,0,34.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+536253,ISPY2-536253,1,51.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+442669,ISPY2-442669,0,53.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+147139,ISPY2-147139,1,52.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+328160,ACRIN-6698-328160,0,55.0,1,0,HR+/HER2-,Paclitaxel,True
+860243,ACRIN-6698-860243,0,47.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+228192,ISPY2-228192,0,56.0,0,0,TNBC,Paclitaxel + AMG 386,True
+284593,ACRIN-6698-284593,0,32.0,0,0,TNBC,Paclitaxel + MK-2206,True
+248255,ISPY2-248255,0,31.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+875089,ACRIN-6698-875089,0,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+771443,ACRIN-6698-771443,0,51.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+889049,ISPY2-889049,0,36.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+531672,ISPY2-531672,0,28.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+462582,ACRIN-6698-462582,0,55.0,1,0,HR+/HER2-,Paclitaxel,True
+641246,ACRIN-6698-641246,1,58.0,1,1,HER2+,Paclitaxel + Neratinib,True
+894128,ISPY2-894128,1,57.0,0,0,TNBC,Paclitaxel + AMG 386,True
+196064,ACRIN-6698-196064,1,50.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+578975,ISPY2-578975,1,43.0,0,0,TNBC,Paclitaxel + MK-2206,True
+335091,ISPY2-335091,1,39.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+829491,ISPY2-829491,0,57.0,0,0,TNBC,Paclitaxel + AMG 386,True
+406190,ISPY2-406190,0,54.0,0,0,TNBC,Paclitaxel + Neratinib,True
+781335,ISPY2-781335,0,57.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,False
+801641,ACRIN-6698-801641,0,53.0,0,0,TNBC,Paclitaxel + MK-2206,True
+628692,ISPY2-628692,0,58.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+213913,ACRIN-6698-213913,1,69.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+580632,ACRIN-6698-580632,0,64.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+783578,ISPY2-783578,1,48.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+414971,ISPY2-414971,1,73.0,0,0,TNBC,Paclitaxel + MK-2206,True
+847753,ISPY2-847753,1,54.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+573605,ACRIN-6698-573605,0,38.0,0,0,TNBC,Paclitaxel + MK-2206,True
+910706,ISPY2-910706,1,37.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+553012,ISPY2-553012,0,63.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+782334,ISPY2-782334,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+836114,ISPY2-836114,0,48.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+944419,ISPY2-944419,0,38.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+159352,ISPY2-159352,0,57.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+374121,ISPY2-374121,0,57.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+573881,ISPY2-573881,0,49.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+103939,ACRIN-6698-103939,0,51.0,1,0,HR+/HER2-,Paclitaxel,True
+676048,ISPY2-676048,0,52.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+416434,ISPY2-416434,1,65.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+824512,ISPY2-824512,0,68.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+472799,ISPY2-472799,1,63.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+178649,ISPY2-178649,1,58.0,0,0,TNBC,Paclitaxel + Neratinib,True
+928446,ACRIN-6698-928446,0,39.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+245655,ISPY2-245655,0,43.0,0,0,TNBC,Paclitaxel + Neratinib,True
+117707,ISPY2-117707,1,50.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+553141,ISPY2-553141,1,70.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+382853,ISPY2-382853,1,32.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+781642,ISPY2-781642,0,61.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+631337,ISPY2-631337,0,28.0,1,0,HR+/HER2-,Paclitaxel,False
+516763,ACRIN-6698-516763,1,50.0,0,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+685182,ISPY2-685182,1,37.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+317641,ACRIN-6698-317641,1,28.0,0,0,TNBC,Paclitaxel + MK-2206,True
+587691,ACRIN-6698-587691,1,63.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+174904,ISPY2-174904,0,48.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+778020,ISPY2-778020,0,54.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+695521,ACRIN-6698-695521,0,57.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+493472,ISPY2-493472,0,66.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+885590,ISPY2-885590,0,47.0,1,0,HR+/HER2-,Paclitaxel,True
+443708,ISPY2-443708,0,55.0,0,0,TNBC,Paclitaxel + Neratinib,True
+622078,ISPY2-622078,0,46.0,0,1,HER2+,Paclitaxel + Neratinib,True
+627118,ISPY2-627118,0,44.0,0,1,HER2+,Paclitaxel + Trastuzumab,False
+916645,ISPY2-916645,1,50.0,1,0,HR+/HER2-,Paclitaxel,True
+899692,ACRIN-6698-899692,1,57.0,0,0,TNBC,Paclitaxel,True
+427321,ISPY2-427321,1,51.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+581648,ISPY2-581648,0,42.0,0,0,TNBC,Paclitaxel,True
+172366,ACRIN-6698-172366,1,51.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+329076,ACRIN-6698-329076,0,43.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+903880,ISPY2-903880,0,53.0,1,1,HER2+,Paclitaxel + Neratinib,True
+146987,ACRIN-6698-146987,0,53.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+913225,ISPY2-913225,1,51.0,1,1,HER2+,Paclitaxel + Neratinib,True
+201873,ISPY2-201873,1,49.0,1,1,HER2+,Paclitaxel + Neratinib,True
+345574,ISPY2-345574,1,39.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+905264,ISPY2-905264,0,69.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+142688,ISPY2-142688,0,45.0,0,0,TNBC,Paclitaxel,True
+655128,ACRIN-6698-655128,0,49.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,False
+309830,ISPY2-309830,0,32.0,0,0,TNBC,Paclitaxel + MK-2206,True
+653325,ACRIN-6698-653325,0,35.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+929980,ACRIN-6698-929980,1,55.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+712276,ISPY2-712276,1,56.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+966016,ISPY2-966016,1,53.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+649198,ACRIN-6698-649198,0,50.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+953262,ISPY2-953262,0,36.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+974181,ISPY2-974181,1,41.0,0,0,TNBC,Paclitaxel + AMG 386,True
+357017,ISPY2-357017,0,45.0,1,0,HR+/HER2-,Paclitaxel,True
+380239,ISPY2-380239,0,55.0,0,0,TNBC,Paclitaxel + Neratinib,True
+178815,ISPY2-178815,0,39.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+299962,ACRIN-6698-299962,0,41.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+575372,ISPY2-575372,1,66.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+350331,ISPY2-350331,0,54.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+417474,ACRIN-6698-417474,1,63.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+527320,ISPY2-527320,0,45.0,0,0,TNBC,Paclitaxel,True
+851488,ISPY2-851488,0,63.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+535779,ISPY2-535779,0,39.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+127791,ISPY2-127791,0,44.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+263143,ACRIN-6698-263143,0,54.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+791944,ISPY2-791944,0,65.0,1,1,HER2+,Paclitaxel + Neratinib,False
+209967,ACRIN-6698-209967,0,45.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+728182,ACRIN-6698-728182,0,41.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+183831,ISPY2-183831,1,49.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+343898,ACRIN-6698-343898,0,45.0,0,0,TNBC,Paclitaxel + MK-2206,True
+353318,ISPY2-353318,0,53.0,0,0,TNBC,Paclitaxel,True
+531988,ACRIN-6698-531988,1,36.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+963303,ACRIN-6698-963303,0,37.0,1,0,HR+/HER2-,Paclitaxel,True
+631299,ACRIN-6698-631299,0,53.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+264678,ISPY2-264678,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+987995,ISPY2-987995,0,56.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+235995,ISPY2-235995,1,50.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+962472,ISPY2-962472,0,29.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+624777,ISPY2-624777,0,52.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+515141,ISPY2-515141,1,43.0,0,0,TNBC,Paclitaxel + AMG 386,True
+411684,ISPY2-411684,0,39.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,False
+637566,ISPY2-637566,0,68.0,0,0,TNBC,Paclitaxel + MK-2206,True
+640043,ISPY2-640043,0,33.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+111004,ISPY2-111004,0,,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+198891,ISPY2-198891,0,61.0,1,0,HR+/HER2-,Paclitaxel,True
+830958,ISPY2-830958,0,55.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+824350,ISPY2-824350,1,58.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+573586,ISPY2-573586,0,57.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+755914,ACRIN-6698-755914,1,47.0,0,0,TNBC,Paclitaxel + MK-2206,True
+316996,ISPY2-316996,0,51.0,0,1,HER2+,Paclitaxel + Neratinib,True
+363669,ISPY2-363669,0,60.0,1,0,HR+/HER2-,Paclitaxel,True
+190224,ISPY2-190224,0,63.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,False
+461824,ISPY2-461824,0,36.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+345483,ISPY2-345483,0,50.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+479417,ISPY2-479417,1,49.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+261304,ISPY2-261304,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+941926,ISPY2-941926,0,51.0,1,0,HR+/HER2-,Paclitaxel,True
+906042,ISPY2-906042,0,55.0,1,0,HR+/HER2-,Paclitaxel,True
+988443,ISPY2-988443,0,49.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+180027,ISPY2-180027,1,40.0,0,0,TNBC,Paclitaxel + AMG 386,True
+845663,ISPY2-845663,0,32.0,1,0,HR+/HER2-,Paclitaxel,True
+134526,ISPY2-134526,1,36.0,0,0,TNBC,Paclitaxel + Neratinib,True
+727804,ISPY2-727804,1,43.0,0,0,TNBC,Paclitaxel + MK-2206,True
+623086,ISPY2-623086,0,34.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+814299,ISPY2-814299,1,40.0,0,1,HER2+,Paclitaxel + Neratinib,True
+654021,ACRIN-6698-654021,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+203060,ACRIN-6698-203060,0,57.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+820807,ACRIN-6698-820807,1,50.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+211408,ISPY2-211408,1,58.0,0,1,HER2+,Paclitaxel + Neratinib,True
+286984,ISPY2-286984,0,50.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+914968,ISPY2-914968,0,30.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+289420,ACRIN-6698-289420,0,64.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+192548,ISPY2-192548,0,51.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+255078,ISPY2-255078,0,57.0,0,0,TNBC,Paclitaxel,True
+515105,ISPY2-515105,0,38.0,1,1,HER2+,Paclitaxel + Neratinib,True
+273745,ISPY2-273745,0,48.0,1,0,HR+/HER2-,Paclitaxel,True
+374106,ISPY2-374106,0,36.0,0,0,TNBC,Paclitaxel + Neratinib,True
+890414,ISPY2-890414,1,55.0,0,0,TNBC,Paclitaxel,False
+604326,ISPY2-604326,0,60.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+563856,ISPY2-563856,1,40.0,0,0,TNBC,Paclitaxel + Neratinib,True
+688291,ACRIN-6698-688291,0,56.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+530095,ACRIN-6698-530095,0,45.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+705381,ISPY2-705381,1,46.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+636424,ISPY2-636424,0,33.0,0,0,TNBC,Paclitaxel,True
+222135,ACRIN-6698-222135,0,53.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,False
+349639,ISPY2-349639,1,43.0,1,1,HER2+,Paclitaxel + Neratinib,True
+703455,ISPY2-703455,0,44.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+386664,ISPY2-386664,0,63.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+651541,ISPY2-651541,1,65.0,0,0,TNBC,Paclitaxel + Neratinib,True
+426106,ISPY2-426106,0,56.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+981461,ISPY2-981461,0,44.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+446263,ISPY2-446263,1,53.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+122795,ISPY2-122795,0,45.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+396723,ACRIN-6698-396723,0,72.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+677910,ACRIN-6698-677910,0,45.0,0,0,TNBC,Paclitaxel + AMG 386,True
+313672,ISPY2-313672,0,73.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+500826,ISPY2-500826,0,69.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+729270,ISPY2-729270,1,50.0,0,1,HER2+,Paclitaxel + Neratinib,True
+666147,ISPY2-666147,0,27.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+179369,ACRIN-6698-179369,0,36.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+982505,ISPY2-982505,0,51.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+375954,ACRIN-6698-375954,0,36.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+194024,ISPY2-194024,1,41.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+320538,ACRIN-6698-320538,0,57.0,0,0,TNBC,Paclitaxel,True
+152197,ISPY2-152197,1,59.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+637051,ISPY2-637051,0,52.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+697098,ISPY2-697098,1,37.0,0,0,TNBC,Paclitaxel + Neratinib,True
+832056,ISPY2-832056,0,41.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+942017,ACRIN-6698-942017,0,44.0,1,0,HR+/HER2-,Paclitaxel,True
+266509,ISPY2-266509,1,59.0,0,0,TNBC,Paclitaxel + AMG 386,True
+307659,ISPY2-307659,0,56.0,1,1,HER2+,Paclitaxel + Neratinib,False
+677915,ISPY2-677915,0,43.0,1,0,HR+/HER2-,Paclitaxel,True
+100899,ISPY2-100899,0,53.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+803677,ISPY2-803677,0,53.0,0,0,TNBC,Paclitaxel + MK-2206,True
+233832,ISPY2-233832,0,42.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+733276,ISPY2-733276,0,54.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+994987,ISPY2-994987,0,62.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+360937,ISPY2-360937,0,50.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,False
+357034,ISPY2-357034,0,63.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+485637,ISPY2-485637,0,54.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+590220,ISPY2-590220,1,41.0,0,0,TNBC,Paclitaxel + MK-2206,True
+405717,ISPY2-405717,0,44.0,0,0,TNBC,Paclitaxel,True
+640463,ISPY2-640463,1,31.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+650589,ISPY2-650589,0,52.0,0,0,TNBC,Paclitaxel + AMG 386,True
+291515,ISPY2-291515,0,44.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+955953,ISPY2-955953,1,36.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+799149,ACRIN-6698-799149,1,35.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+182346,ISPY2-182346,0,58.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+340186,ISPY2-340186,0,54.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+324021,ISPY2-324021,0,44.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+943633,ACRIN-6698-943633,0,50.0,0,0,TNBC,Paclitaxel + AMG 386,True
+429220,ACRIN-6698-429220,0,52.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+236470,ISPY2-236470,1,54.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+640927,ISPY2-640927,0,62.0,0,0,TNBC,Paclitaxel + Neratinib,True
+901705,ACRIN-6698-901705,0,42.0,1,0,HR+/HER2-,Paclitaxel,True
+712785,ACRIN-6698-712785,0,50.0,0,0,TNBC,Paclitaxel,True
+109980,ISPY2-109980,1,53.0,1,1,HER2+,Paclitaxel + Neratinib,True
+489504,ISPY2-489504,1,47.0,0,0,TNBC,Paclitaxel,True
+845079,ISPY2-845079,1,43.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+234272,ISPY2-234272,0,41.0,1,1,HER2+,Paclitaxel + Neratinib,True
+706418,ISPY2-706418,1,59.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+259206,ISPY2-259206,0,64.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,False
+149654,ISPY2-149654,0,,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+904269,ISPY2-904269,1,59.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+663197,ISPY2-663197,0,43.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+857165,ISPY2-857165,0,47.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+330134,ISPY2-330134,0,60.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+771151,ACRIN-6698-771151,1,45.0,0,0,TNBC,Paclitaxel + AMG 386,True
+646600,ISPY2-646600,0,35.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+629371,ACRIN-6698-629371,1,58.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+169918,ACRIN-6698-169918,0,50.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+507198,ISPY2-507198,0,44.0,0,0,TNBC,Paclitaxel,True
+800710,ISPY2-800710,0,29.0,0,0,TNBC,Paclitaxel,True
+570966,ISPY2-570966,0,51.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+745633,ISPY2-745633,0,56.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+255535,ISPY2-255535,0,44.0,1,1,HER2+,Paclitaxel + Neratinib,True
+725455,ISPY2-725455,0,49.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+698094,ACRIN-6698-698094,0,53.0,1,0,HR+/HER2-,Paclitaxel,True
+734997,ACRIN-6698-734997,0,38.0,1,0,HR+/HER2-,Paclitaxel,True
+792181,ACRIN-6698-792181,1,60.0,0,0,TNBC,Paclitaxel + AMG 386,True
+934459,ISPY2-934459,0,70.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+467686,ACRIN-6698-467686,1,37.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+421829,ISPY2-421829,0,46.0,0,0,TNBC,Paclitaxel,True
+644186,ISPY2-644186,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+456432,ISPY2-456432,0,45.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+478484,ISPY2-478484,0,64.0,0,0,TNBC,Paclitaxel + Neratinib,True
+166782,ISPY2-166782,0,52.0,1,1,HER2+,Paclitaxel + Neratinib,False
+287961,ACRIN-6698-287961,1,53.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+435313,ISPY2-435313,0,52.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+202539,ISPY2-202539,1,57.0,1,0,HR+/HER2-,Paclitaxel,True
+520986,ISPY2-520986,1,53.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+252748,ISPY2-252748,1,41.0,0,0,TNBC,Paclitaxel,True
+306127,ISPY2-306127,0,55.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+129973,ISPY2-129973,1,35.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+959366,ISPY2-959366,1,65.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+454808,ISPY2-454808,0,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+727255,ISPY2-727255,0,53.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+597907,ACRIN-6698-597907,0,52.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+962664,ISPY2-962664,1,30.0,0,0,TNBC,Paclitaxel,True
+228340,ISPY2-228340,0,66.0,0,1,HER2+,Paclitaxel + Neratinib,True
+539291,ISPY2-539291,1,47.0,0,1,HER2+,Paclitaxel + Neratinib,True
+341238,ISPY2-341238,0,27.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+655795,ISPY2-655795,1,57.0,1,0,HR+/HER2-,Paclitaxel,True
+790397,ISPY2-790397,1,33.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+572731,ISPY2-572731,1,34.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+644609,ISPY2-644609,1,67.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+459311,ISPY2-459311,0,54.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+987728,ACRIN-6698-987728,1,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+572235,ISPY2-572235,0,54.0,1,1,HER2+,Paclitaxel + Neratinib,True
+609642,ISPY2-609642,1,58.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+946927,ACRIN-6698-946927,1,63.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+950131,ISPY2-950131,1,42.0,1,0,HR+/HER2-,Paclitaxel,True
+311316,ISPY2-311316,0,48.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+596458,ISPY2-596458,1,58.0,1,1,HER2+,Paclitaxel + Neratinib,False
+889721,ISPY2-889721,1,64.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+465008,ACRIN-6698-465008,0,62.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+865416,ISPY2-865416,0,41.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+835658,ISPY2-835658,1,50.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+660915,ISPY2-660915,0,54.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+493519,ISPY2-493519,0,40.0,1,0,HR+/HER2-,Paclitaxel,False
+318569,ISPY2-318569,0,39.0,1,1,HER2+,Paclitaxel + Neratinib,True
+819622,ISPY2-819622,0,53.0,1,0,HR+/HER2-,Paclitaxel,True
+600536,ISPY2-600536,0,37.0,0,0,TNBC,Paclitaxel + AMG 386,True
+566011,ISPY2-566011,0,59.0,0,0,TNBC,Paclitaxel + Neratinib,True
+138027,ACRIN-6698-138027,0,64.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+788149,ISPY2-788149,1,57.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+318438,ISPY2-318438,0,60.0,0,0,TNBC,Paclitaxel,True
+422013,ACRIN-6698-422013,0,32.0,1,1,HER2+,Paclitaxel + Neratinib,True
+663467,ISPY2-663467,0,45.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+823618,ISPY2-823618,0,37.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+188511,ISPY2-188511,0,60.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+317131,ISPY2-317131,0,46.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+383456,ACRIN-6698-383456,1,50.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+573919,ACRIN-6698-573919,0,65.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,False
+660534,ISPY2-660534,1,50.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+692885,ISPY2-692885,0,40.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+834418,ISPY2-834418,0,59.0,1,0,HR+/HER2-,Paclitaxel,True
+602943,ISPY2-602943,1,38.0,0,0,TNBC,Paclitaxel,True
+378401,ISPY2-378401,1,61.0,0,0,TNBC,Paclitaxel + AMG 386,True
+123660,ISPY2-123660,0,71.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+859699,ISPY2-859699,1,53.0,1,1,HER2+,Paclitaxel + Trastuzumab,False
+188091,ISPY2-188091,1,50.0,0,1,HER2+,Paclitaxel + Neratinib,True
+736721,ACRIN-6698-736721,0,41.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+233191,ACRIN-6698-233191,0,42.0,0,0,TNBC,Paclitaxel,True
+111674,ISPY2-111674,1,30.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+407539,ACRIN-6698-407539,0,35.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+511851,ACRIN-6698-511851,0,48.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+895653,ACRIN-6698-895653,1,43.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+128051,ISPY2-128051,0,56.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+824234,ISPY2-824234,1,30.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+283070,ACRIN-6698-283070,0,68.0,0,0,TNBC,Paclitaxel + AMG 386,True
+229144,ISPY2-229144,0,54.0,1,0,HR+/HER2-,Paclitaxel,True
+424541,ISPY2-424541,0,58.0,1,0,HR+/HER2-,Paclitaxel,True
+542392,ISPY2-542392,0,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+812089,ISPY2-812089,0,58.0,0,0,TNBC,Paclitaxel + Neratinib,True
+749097,ISPY2-749097,0,46.0,1,0,HR+/HER2-,Paclitaxel,True
+437968,ISPY2-437968,0,60.0,1,1,HER2+,Paclitaxel + Neratinib,True
+460812,ISPY2-460812,0,50.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+728714,ISPY2-728714,0,50.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+413961,ISPY2-413961,0,49.0,0,0,TNBC,Paclitaxel + MK-2206,True
+395379,ISPY2-395379,0,36.0,1,0,HR+/HER2-,Paclitaxel,True
+294176,ISPY2-294176,1,56.0,0,0,TNBC,Paclitaxel + Neratinib,True
+130580,ACRIN-6698-130580,1,56.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+375342,ISPY2-375342,0,38.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+503034,ISPY2-503034,0,42.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+490023,ACRIN-6698-490023,1,34.0,0,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+299364,ISPY2-299364,0,40.0,0,0,TNBC,Paclitaxel,True
+303947,ISPY2-303947,1,61.0,0,1,HER2+,Paclitaxel + Neratinib,True
+766967,ISPY2-766967,1,44.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+726381,ISPY2-726381,0,63.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+841336,ISPY2-841336,0,47.0,1,0,HR+/HER2-,Paclitaxel,True
+589502,ISPY2-589502,1,67.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+462581,ISPY2-462581,0,69.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+940186,ISPY2-940186,1,44.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+592535,ISPY2-592535,0,44.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+443444,ISPY2-443444,0,61.0,0,1,HER2+,Paclitaxel + Neratinib,True
+492612,ISPY2-492612,0,37.0,0,0,TNBC,Paclitaxel,True
+787415,ISPY2-787415,0,56.0,0,0,TNBC,Paclitaxel + AMG 386,True
+885871,ISPY2-885871,0,41.0,0,0,TNBC,Paclitaxel,True
+728149,ACRIN-6698-728149,0,46.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+962827,ISPY2-962827,0,37.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+995480,ACRIN-6698-995480,0,46.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+528833,ISPY2-528833,1,61.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+775346,ACRIN-6698-775346,0,35.0,1,0,HR+/HER2-,Paclitaxel,True
+515565,ISPY2-515565,0,59.0,0,0,TNBC,Paclitaxel,True
+442637,ISPY2-442637,0,56.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+408692,ACRIN-6698-408692,1,25.0,0,0,TNBC,Paclitaxel,True
+497010,ISPY2-497010,1,31.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+805136,ACRIN-6698-805136,0,52.0,0,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+238790,ISPY2-238790,0,44.0,0,0,TNBC,Paclitaxel,True
+327142,ISPY2-327142,0,59.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+132463,ISPY2-132463,1,64.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+726940,ISPY2-726940,0,51.0,0,0,TNBC,Paclitaxel,False
+262131,ISPY2-262131,0,41.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+792412,ISPY2-792412,0,32.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+169536,ISPY2-169536,0,25.0,1,1,HER2+,Paclitaxel + Neratinib,True
+517870,ISPY2-517870,0,52.0,0,0,TNBC,Paclitaxel,True
+652480,ACRIN-6698-652480,0,36.0,0,0,TNBC,Paclitaxel + AMG 386,True
+151481,ISPY2-151481,0,54.0,0,0,TNBC,Paclitaxel,True
+199115,ISPY2-199115,0,61.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+630758,ISPY2-630758,0,57.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+783764,ACRIN-6698-783764,0,54.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+752372,ISPY2-752372,0,59.0,1,0,HR+/HER2-,Paclitaxel,True
+549172,ISPY2-549172,0,45.0,0,0,TNBC,Paclitaxel,True
+174903,ISPY2-174903,0,56.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+808714,ISPY2-808714,0,69.0,0,0,TNBC,Paclitaxel,True
+928815,ACRIN-6698-928815,0,38.0,0,0,TNBC,Paclitaxel + AMG 386,True
+241705,ISPY2-241705,0,49.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+148357,ACRIN-6698-148357,0,55.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+680881,ACRIN-6698-680881,0,33.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+591810,ACRIN-6698-591810,1,35.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+790070,ISPY2-790070,0,44.0,1,1,HER2+,Paclitaxel + Neratinib,True
+128675,ISPY2-128675,1,47.0,1,0,HR+/HER2-,Paclitaxel,True
+889225,ISPY2-889225,0,46.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+411008,ISPY2-411008,0,49.0,0,0,TNBC,Paclitaxel + AMG 386,True
+723918,ISPY2-723918,1,35.0,1,1,HER2+,Paclitaxel + Neratinib,True
+742477,ISPY2-742477,0,44.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+579881,ISPY2-579881,0,32.0,1,0,HR+/HER2-,Paclitaxel,True
+162562,ACRIN-6698-162562,1,61.0,0,1,HER2+,Paclitaxel + Trastuzumab,True
+687288,ACRIN-6698-687288,1,57.0,0,1,HER2+,T-DM1 + Pertuzumab,True
+120422,ISPY2-120422,1,57.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+203254,ISPY2-203254,0,25.0,0,0,TNBC,Paclitaxel + MK-2206,False
+898618,ISPY2-898618,0,54.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+628823,ACRIN-6698-628823,0,42.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+423619,ISPY2-423619,1,53.0,0,0,TNBC,Paclitaxel + Neratinib,True
+349330,ISPY2-349330,1,50.0,0,0,TNBC,Paclitaxel + AMG 386,True
+524170,ACRIN-6698-524170,0,38.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+240957,ACRIN-6698-240957,0,46.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+584561,ACRIN-6698-584561,1,39.0,0,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+421917,ACRIN-6698-421917,0,41.0,0,0,TNBC,Paclitaxel,True
+115638,ISPY2-115638,0,34.0,0,0,TNBC,Paclitaxel + Ganitumab,False
+154293,ISPY2-154293,0,52.0,1,1,HER2+,Paclitaxel + Neratinib,True
+746731,ISPY2-746731,1,46.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+282082,ISPY2-282082,1,,0,0,TNBC,Paclitaxel,True
+433144,ISPY2-433144,1,59.0,0,0,TNBC,Paclitaxel,True
+883886,ISPY2-883886,0,57.0,0,0,TNBC,Paclitaxel + Neratinib,True
+928170,ACRIN-6698-928170,0,67.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+223526,ISPY2-223526,0,57.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,False
+520471,ACRIN-6698-520471,1,35.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+172283,ISPY2-172283,0,48.0,0,0,TNBC,Paclitaxel + Neratinib,True
+720065,ISPY2-720065,0,55.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+478655,ISPY2-478655,1,52.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+451482,ISPY2-451482,0,47.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+223030,ISPY2-223030,0,56.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+586091,ISPY2-586091,1,44.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+417654,ISPY2-417654,0,68.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+234723,ACRIN-6698-234723,0,37.0,0,0,TNBC,Paclitaxel + AMG 386,True
+602451,ISPY2-602451,0,47.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+883696,ISPY2-883696,0,27.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+970839,ACRIN-6698-970839,0,58.0,1,0,HR+/HER2-,Paclitaxel,True
+507249,ISPY2-507249,0,37.0,1,1,HER2+,Paclitaxel + Pertuzumab + Trastuzumab,True
+724293,ACRIN-6698-724293,1,41.0,1,1,HER2+,T-DM1 + Pertuzumab,True
+117424,ISPY2-117424,1,33.0,0,0,TNBC,Paclitaxel + Neratinib,True
+793684,ISPY2-793684,0,48.0,0,0,TNBC,Paclitaxel + Ganetespib,False
+380769,ISPY2-380769,1,40.0,0,0,TNBC,Paclitaxel + ABT 888 + Carboplatin,True
+572444,ISPY2-572444,0,54.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+796558,ISPY2-796558,0,38.0,0,0,TNBC,Paclitaxel,True
+925691,ISPY2-925691,0,58.0,0,1,HER2+,Paclitaxel + Neratinib,True
+414256,ISPY2-414256,0,38.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+765671,ACRIN-6698-765671,1,41.0,0,0,TNBC,Paclitaxel + AMG 386,True
+990443,ISPY2-990443,0,53.0,1,0,HR+/HER2-,Paclitaxel + Pembrolizumab,True
+384830,ACRIN-6698-384830,0,37.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
+836983,ISPY2-836983,1,54.0,1,1,HER2+,Paclitaxel + Neratinib,True
+586207,ISPY2-586207,1,45.0,0,0,TNBC,Paclitaxel + AMG 386,True
+559021,ISPY2-559021,1,34.0,1,0,HR+/HER2-,Paclitaxel + Ganitumab,False
+746265,ISPY2-746265,0,35.0,1,0,HR+/HER2-,Paclitaxel + Neratinib,True
+962153,ACRIN-6698-962153,0,55.0,1,1,HER2+,Paclitaxel + AMG 386 + Trastuzumab,True
+559263,ISPY2-559263,0,64.0,0,0,TNBC,Paclitaxel,True
+287300,ISPY2-287300,1,45.0,1,1,HER2+,Paclitaxel + Neratinib,True
+711476,ACRIN-6698-711476,1,47.0,1,0,HR+/HER2-,Paclitaxel,True
+944536,ISPY2-944536,1,58.0,0,1,HER2+,Paclitaxel + Neratinib,True
+361701,ACRIN-6698-361701,0,49.0,1,0,HR+/HER2-,Paclitaxel + MK-2206,True
+112606,ISPY2-112606,0,57.0,1,1,HER2+,Paclitaxel + Trastuzumab,True
+924071,ACRIN-6698-924071,0,57.0,1,0,HR+/HER2-,Paclitaxel + AMG 386,True
+598798,ISPY2-598798,0,46.0,1,0,HR+/HER2-,Paclitaxel + ABT 888 + Carboplatin,True
+231633,ISPY2-231633,1,53.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+892390,ISPY2-892390,1,59.0,0,0,TNBC,Paclitaxel + Pembrolizumab,True
+666715,ISPY2-666715,0,32.0,1,0,HR+/HER2-,Paclitaxel + Ganetespib,False
+241998,ACRIN-6698-241998,0,54.0,1,0,HR+/HER2-,Paclitaxel,True
+960963,ISPY2-960963,0,56.0,1,1,HER2+,Paclitaxel + MK-2206 + Trastuzumab,True
