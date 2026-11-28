@@ -167,7 +167,7 @@ We introduce bounded anchored fusion (CARF), with an anchor-verification gate an
 
 CARF guarantees stability, not accuracy, and is less robust than stacking under an incorrect anchor. Recalibration leaves external ECE above zero and was fit internally. The gate misses within-subtype swaps and barely verifies MRI; an exploratory I-SPY1-only tumor-stage gate does better (AUROC \MriTstageGateAuc{} vs.\ \GateAucMri{}), a direction for future data, not a fix. Mix-ups are simulated, and I-SPY1 informed exploratory screening, so it is not untouched validation. The 112-patient external cohort (31 pCR) is the main limit.
 
-GSE25066 and GSE20194 are RNA-only and 81\% overlapping, so they cannot evaluate MRI, RPPA, or multi-modal failure. No other public cohort pairs MRI, expression, and pCR outcome outside I-SPY1/I-SPY2, so independent multi-modal validation remains infeasible. Future work should test documented mix-ups, tumor-stage cohorts, and a larger independent multi-modal cohort. Code is available at \url{https://github.com/21f2000143/bl2403-carf}.
+GSE25066 and GSE20194 are RNA-only and 81\% overlapping, so they cannot evaluate MRI, RPPA, or multi-modal failure. No other public cohort pairs MRI, expression, and pCR outcome outside I-SPY1/I-SPY2, so independent multi-modal validation remains infeasible. Future work should test documented mix-ups, tumor-stage cohorts, and a larger independent multi-modal cohort. Code is available at \url{https://github.com/21f2000143/carf.git}.
 \bibliographystyle{splncs04}
 \bibliography{references}
 \end{document}
